@@ -1,3 +1,5 @@
+![Lacey Kasten](https://i.imgur.com/nwkTVJZ.jpg)
+
 About Me
 ========
 
