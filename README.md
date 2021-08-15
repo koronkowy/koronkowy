@@ -25,6 +25,37 @@ Current Employment / Main Projects
 
 -   [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested.
 
+Publications / Public Work
+==========================
+
+-   Atredis Partners - August 6th, 2020: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/): [Attacking Kubernetes: A Guide for Administrators and Penetration Testers](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/AtredisPartners_Attacking_Kubernetes-v1.0.pdf). You can read more about this open-source security audit on the [CNCF official blog](https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/). As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing of the Atredis Partners white paper. Additionally, a [CVE](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures) came out of this engagement credited to Charles Holmes at Atredis Partners, [CVE-2019-11246](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11246).
+
+-   Atredis Partners - October 17th, 2020: [Open Source Technology Improvement Fund (OSTIF)](https://ostif.org/): [Linux kernel Security Vulnerability Reporting and Remediation Practices Review](https://ostif.org/wp-content/uploads/2021/01/2020-Atredis-Partners-OSTIF-Linux-Kernel-Vulnerability-Reporting-and-Remediation-Practices-Review-Report.pdf). Sponsored by [The Linux Foundation](https://www.linuxfoundation.org/) via OSTIF, Atredis reviewed the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel)’s practices and policies around security vulnerability reporting, processing, and disclosure. As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing and review of the resulting report. OSTIF released [a post via Reddit](https://www.reddit.com/r/opensource/comments/ky3p6g/a_review_of_the_linux_kernels_vulnerability/) on this engagement, as well as a [written announcement on their official site](https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/).
+
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - June 11th, 2021: [Amazon’s Decentralization Plan: Amazon Highlights the Moral Ambiguity of Decentralization](https://hatemail.substack.com/p/amazons-decentralization-plan). Editorial editing, news research headlines, and writing support.
+
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - May 27th, 2021: [Cops Aren’t Really Banned from NYC Pride, and That’s a Shame: Despite NYPD Ban, Organizers Say Private Security Firms Will Replace the NYPD at NYC Pride](https://hatemail.substack.com/p/cops-arent-really-banned-from-nyc). Editorial co-writing, news research headlines, and writing support;.
+
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - May 13th, 2021: [Welcome to Supply Chain Hell: Shortages Highlight Tech and Security’s Critical Role in the Global Market](https://hatemail.substack.com/p/welcome-to-supply-chain-hell). Editorial co-writing, news research headlines, and writing support.
+
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - April 29th, 2021: [When You Weren’t Looking, the Surveillance State Grew: Who Needs Science Fiction When There’s Surveillance Policing? / Hacking Legend and “All Around Nice Guy,” Dan Kaminsky Passes Away at 42](https://hatemail.substack.com/p/when-you-werent-looking-the-surveillance). Editorial editing, editorial co-writing, news research headlines, and writing support.
+
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - April 15th, 2021: [Qoup d’état: What QAnon’s Reddit Migration Tells Us About Misinformation](https://hatemail.substack.com/p/qoup-detat-what-qanons-reddit-migration): Guest editorial by members of [Tech Against Fascism](https://againstfascism.tech/). Editorial editing, news research headlines, and writing support.
+
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - April 1st, 2021: [The Covid-19 Vaccine Complicates the Bot Debate: Bots are Testing Ethical Boundaries Amid Vaccine Distribution](https://hatemail.substack.com/p/the-covid-19-vaccine-complicates). Editorial co-writing, editorial research, editorial editing, news research headlines, and writing support.
+
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - March 4th, 2021: [Protect the Digital Peepshow: What’s the Best Way to Consume Adult Content?](https://hatemail.substack.com/p/protect-the-digital-peepshow) Editorial editing, news research headlines, and writing support.
+
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - February 18, 2021: [Is the GOP Responding to the Texas Crisis with Disinformation?](https://hatemail.substack.com/p/is-the-gop-responding-to-the-texas) Editorial co-writing, editorial research, editorial editing, news research headlines, and writing support.
+
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - February 11th, 2021: [Our Hacker Collective Has an OnlyFans Now ;): We Launched an OnlyFans Page to Help Combat Online Abuse](https://hatemail.substack.com/p/our-hacker-collective-has-an-onlyfans). Editorial editing, news research headlines, and writing support.
+
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - February 4th, 2021: [Do Telegram Nazis Dream of Electric Reichs? The Online Trends of Nazi Telegram](https://hatemail.substack.com/p/do-telegram-nazis-dream-of-electric): Guest editorial by members of [Tech Against Fascism](https://againstfascism.tec). Editorial editing, news research headlines, and writing support.
+
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - January 28, 2021: [The Online Universe of Hate Speech is Still Alive and Well: Hate Speech Thrives Despite Recent Platform Crackdowns](https://hatemail.substack.com/p/the-online-universe-of-hate-speech). Editorial editing, news research headlines, and writing support.
+
+ 
+
 Current Organizations
 =====================
 
