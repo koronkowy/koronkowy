@@ -54,6 +54,14 @@ Publications / Public Work
 
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - January 28, 2021: [The Online Universe of Hate Speech is Still Alive and Well: Hate Speech Thrives Despite Recent Platform Crackdowns](https://hatemail.substack.com/p/the-online-universe-of-hate-speech). Editorial editing, news research headlines, and writing support.
 
+-   [Atredis Partners](https://www.atredis.com/) - May 6, 2021: [CVE-2021-32030](https://nvd.nist.gov/vuln/detail/CVE-2021-32030): [ASUS GT-AC2900 Authentication Bypass](https://www.atredis.com/blog/2021/4/30/asus-authentication-bypass). Technical editing and blog writing support for Chris Bellows.
+
+-   [Atredis Partners](https://www.atredis.com/) - April 26, 2021: [NANDcromancy: Live Swapping NAND Flash](https://www.atredis.com/blog/2021/4/23/live-nand-swap). Technical editing and blog writing support for Chris Bellows.
+
+-   [Atredis Partners](https://www.atredis.com/) - December 7th, 2020: [Authenticated RCE in Pydio (Forever-Day)](https://www.atredis.com/blog/2020/11/12/authenticated-rce-in-pydio-forever-day) — [CVE-2020-28913](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-28913). Technical editing and blog writing support for Brandon Perry with additional technical peer review from Dion Blazakis.
+
+-   [Atredis Partners](https://www.atredis.com/) - November 17th, 2020: [A Watch, a Virtual Machine, and Broken Abstractions: Garmin Forerunner 235](https://www.atredis.com/blog/2020/11/4/garmin-forerunner-235-dion-blazakis). Technical editing and blog writing support for Dion Blazakis with additional technical peer review from Zach Lanier.
+
 -   [secjuice](https://www.secjuice.com/) - September 21, 2018: [DEF CON Groups: What Works in 2018?](https://www.secjuice.com/defcon-groups-what-works-what-doesnt/) Editorial writing, research.
 
 -   [AfterAll Studio](http://afterallstudio.com/) - January 30th, 2013: [Move - Tunde Baiyewu](https://www.youtube.com/watch?v=E8pCEescO_g) music video. Production assistance.
