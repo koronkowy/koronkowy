@@ -10,7 +10,7 @@ About this Page
 
 I really wanted to highlight all the things I am connected with on my Twitter bio but I became involved with too many things!
 
-My lovely twitter acquaintance, [Ch33r10](https://github.com/ch33r10) shared their Github readme which includes public mentions of them and their work and I thought it was the perfect idea to house all this stuff. 
+My lovely twitter acquaintance, [Ch33r10](https://github.com/ch33r10) shared their Github readme which includes public mentions of them and their work and I thought it was the perfect idea to house all this stuff.
 
 This is going to be pretty comprehensive and serve organizationally for me as an archive point as well as somewhat of a CV or resume.
 
@@ -71,7 +71,7 @@ Education Information / Courses
 
 -   Japanese Conversation: Level 2, (at Portland Community College) by Miyoko Fuse. Spring, 2021
 
--   OWASP Amass: Discovering Your Exposure on the Internet (at Portland OWASP Training Day 2019) by Jeff Foley.
+-   [OWASP Amass](https://github.com/OWASP/Amass): Discovering Your Exposure on the Internet (at Portland OWASP Training Day 2019) by [Jeff Foley](https://twitter.com/jeff_foley).
 
 Past Employment / Internships / Works
 =====================================
@@ -93,7 +93,7 @@ Past Employment / Internships / Works
 Competition Participation
 =========================
 
--   Nolacon 2018: CG Silvers 2019 OSINT challenge as a remote member of team Tailpuft. The CG Silvers competition is an OSINT capture the flag (CTF) competition.
+-   [Nolacon](https://nolacon.com/) 2018: CG Silvers 2019 OSINT challenge as a remote member of team Tailpuft. The [CG Silvers competition](https://www.cgsilvers.com/osint-ctf) is an OSINT capture the flag (CTF) competition.
 
 -   BSides PDX 2018: [Trace Labs](https://www.tracelabs.org/) 2018 OSINT competition as a member of the team Qult of the Quantum Qows. This CTF involves using OSINT on real missing persons to submit information valuable to their return to law enforcement agencies.
 
@@ -111,11 +111,11 @@ Current Organizations
 Past Organizations
 ==================
 
--   Women’s Society of Cyberjutsu: Previous membership at this org, a 501(c)3 International nonprofit community, focused on empowering women to succeed in the cybersecurity industry.
+-   [Women’s Society of Cyberjutsu](https://womenscyberjutsu.org/): Previous membership at this org, a 501(c)3 International nonprofit community, focused on empowering women to succeed in the cybersecurity industry.
 
 -   [PDX2600](https://pdx2600.org/): Formerly attended the Portland chapter of [2600](https://www.meetup.com/topics/2600/), a historic hacking / phreaking meetup.
 
--   Portland Area Scientific and Cultural Advancement League (PASCAL): A now defunct Portland hackerspace where I had deep involvement in event organization, hosting, being a member, helping out with the website, showing up to board meetings and more.
+-   [Portland Area Scientific and Cultural Advancement League (PASCAL)](https://www.pascalpdx.org/): A now defunct Portland hackerspace where I had deep involvement in event organization, hosting, being a member, helping out with the website, showing up to board meetings and more.
 
 -   [WWCode Portland](https://www.womenwhocode.com/portland): Previous attendee of Portland’s chapter of [WWCode (Women Who Code)](https://www.womenwhocode.com/).
 
@@ -132,29 +132,33 @@ Past Organizations
 Events
 ======
 
--   Security BSides - BSides PDX: Previously organizer who wore many hats in this organization, 2018-2021. Lead sponsorship to a level of growth of $100,000+ in sponsorship contributions, built countless relationships new and old with vendors. Sat on the board of directors from 2019-2021, ran for election and ran for chairman seat. There are few parts of this conference that I didn’t have my hands in.
+-   [Security BSides](http://www.securitybsides.com/) - [BSides PDX](https://bsidespdx.org/): Previously organizer who wore many hats in this organization, 2018-2021. Lead sponsorship to a level of growth of $100,000+ in sponsorship contributions, built countless relationships new and old with vendors. Sat on the board of directors from 2019-2021, ran for election and ran for chairman seat. There are few parts of this conference that I didn’t have my hands in.
 
--   HackBoat: Conference organizer including help found the initial conference, social media, speaker organization and assistance. Event on hold due to COVID-19, but we will return as soon as it is safe.
+-   [HackBoat](https://hackboat.org/): Conference organizer including help found the initial conference, social media, speaker organization and assistance. Event on hold due to COVID-19, but we will return as soon as it is safe.
 
--   HellaConf: Appsec conference held by the folks behind HellaSecure. I provided support during the virtual conference for information on speakers in chat as well as moderation for chat.
+-   [HellaConf](https://www.youtube.com/playlist?list=PLb47HxNiZ8g8JN1zvoI2zwy-zdey3nBf9): Appsec conference held by the folks behind [HellaSecure](https://www.hella-secure.com/). I provided support during the virtual conference for information on speakers in chat as well as moderation for chat.
 
--   DEF CON® Hacking Conference: I have attended DEF CON for the years of DC20, DC21, DC24, DC26, DC27, DC28, DC29. Often sponsored by companies, I have also attended as a scholarship recipient from the Women in Security and Privacy (WISP) org. You can find me here helping host parties for Atredis Partners or getting up to shenanigans like buying the Car Hacking Village Chang Li Tiny car at DC29.
+-   [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), DC29. Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). You can find me here helping host parties for Atredis Partners or getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29.
 
--   AppSecUSA 2018: In San Jose, I was awarded the OWASP Bay Area Diversity Sponsorship to AppSecUSA 2018. This fantastic conference on Application Security is to this date one of the best conferences I have been privileged to attend.
+-   [AppSecUSA 2018](https://2018.appsecusa.org/): In San Jose, I was awarded the [OWASP Bay Area](https://owasp.org/www-chapter-bay-area/) Diversity Sponsorship to AppSecUSA 2018. This fantastic conference on Application Security is to this date one of the best conferences I have been privileged to attend.
 
--   The Diana Initiative (TDI): Volunteer as a community manager and InfoBooth volunteer for the 2020 TDI conference including learning how to spot and report abuse, troubleshoot the Hopin platform, and more.
+-   [The Diana Initiative (TDI)](https://www.dianainitiative.org/): Volunteer as a community manager and InfoBooth volunteer for the 2020 TDI conference including learning how to spot and report abuse, troubleshoot the [Hopin](https://hopin.com/) platform, and more.
 
--   ShellConLA: Attendee in 2020, I plan to attend every year this local to Los Angeles security conference.
+-   [ShellConLA](https://shellcon.io/): Attendee in 2020, I plan to attend every year this local to Los Angeles security conference.
 
--   Eyebeam: Attended in 2021, a conference that combines tech folks, artists, scholars and more in an attempt to refigure the future into a better world.
+-   [Security BSides](http://www.securitybsides.com/) - [BSides Las Vegas](https://www.bsideslv.org/) 2019: As a BSides organizer I attended BSides Las Vegas in 2019 which is a fantastic Security BSides but also there’s a meetup within this conference where BSides organizers from all over share knowledge.
 
--   Hushcon - West: Attendee in 2019, and from here on out. This is a premier security conference with hush rules on all talks that happen. I hope to attend Hushcon - East one of these days.
+-   [Security BSides](http://www.securitybsides.com/) - BSides Boise 2019: I had the pleasure of visiting BSides Boise in 2019, a conference in Idaho that blends several regions of Idaho into one conference. This is now called [BSides Idaho](https://www.bsidesidaho.org/).
 
--   The AGORA: This was the oldest and largest security conference in the Pacific Northwest hosted at the University of Washington. Invite only and strictly adhering to Chatham House Rules. I attended from 2018-2019 when the conference concluded it’s run.
+-   [Eyebeam](https://www.eyebeam.org/events/refiguring-the-future-conference/): Attended in 2021, a conference that combines tech folks, artists, scholars and more in an attempt to refigure the future into a better world.
 
--   [Time Based Arts Festival (TBA:)](https://www.pica.org/tba/): Attended and volunteered for several years at the TBA festival hosted by the Portland Institute for Contemporary Art (PICA) in Portland, OR. One time I volunteered at [Mike Daisey’s ‘All The Hours in the Day’](https://www.wweek.com/portland/blog-27636-tba-diary-mike-daiseys-all-the-hours-in-the-day.html) monologue which lasted for 24 consecutive hours.
+-   [Hushcon](https://hushcon.com/) - West: Attendee in 2019, and from here on out. This is a premier security conference with hush rules on all talks that happen. I hope to attend Hushcon - East one of these days.
 
--   & I can guarantee you I have forgotten some stuff on here. I’ve watched many talks / participated virtually at other conferences too.
+-   The AGORA: This was the oldest and largest security conference in the Pacific Northwest hosted at the [University of Washington](https://www.washington.edu/). Invite only and strictly adhering to [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule). I attended from 2018-2019 when the conference concluded it’s run.
+
+-   [Time Based Arts Festival (TBA:)](https://www.pica.org/tba/): Attended and volunteered for several years at the TBA festival hosted by the [Portland Institute for Contemporary Art (PICA)](https://www.pica.org/) in Portland, OR. One time I volunteered at [Mike Daisey’s ‘All The Hours in the Day’](https://www.wweek.com/portland/blog-27636-tba-diary-mike-daiseys-all-the-hours-in-the-day.html) monologue which lasted for 24 consecutive hours.
+
+& I can guarantee you I have forgotten some stuff on here. I’ve watched many talks / participated virtually at other conferences too.
 
 Credits
 =======
