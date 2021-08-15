@@ -28,13 +28,13 @@ Current Employment / Main Projects
 Publications / Public Work
 ==========================
 
--   Atredis Partners - August 6th, 2020: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/): [Attacking Kubernetes: A Guide for Administrators and Penetration Testers](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/AtredisPartners_Attacking_Kubernetes-v1.0.pdf). You can read more about this open-source security audit on the [CNCF official blog](https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/). As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing of the Atredis Partners white paper. Additionally, a [CVE](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures) came out of this engagement credited to Charles Holmes at Atredis Partners, [CVE-2019-11246](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11246).
+-   [Atredis Partners](https://www.atredis.com/) - August 6th, 2020: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/): [Attacking Kubernetes: A Guide for Administrators and Penetration Testers](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/AtredisPartners_Attacking_Kubernetes-v1.0.pdf). You can read more about this open-source security audit on the [CNCF official blog](https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/). As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing of the Atredis Partners white paper. Additionally, a [CVE](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures) came out of this engagement credited to Charles Holmes at Atredis Partners, [CVE-2019-11246](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11246).
 
--   Atredis Partners - October 17th, 2020: [Open Source Technology Improvement Fund (OSTIF)](https://ostif.org/): [Linux kernel Security Vulnerability Reporting and Remediation Practices Review](https://ostif.org/wp-content/uploads/2021/01/2020-Atredis-Partners-OSTIF-Linux-Kernel-Vulnerability-Reporting-and-Remediation-Practices-Review-Report.pdf). Sponsored by [The Linux Foundation](https://www.linuxfoundation.org/) via OSTIF, Atredis reviewed the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel)’s practices and policies around security vulnerability reporting, processing, and disclosure. As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing and review of the resulting report. OSTIF released [a post via Reddit](https://www.reddit.com/r/opensource/comments/ky3p6g/a_review_of_the_linux_kernels_vulnerability/) on this engagement, as well as a [written announcement on their official site](https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/).
+-   [Atredis Partners](https://www.atredis.com/) - October 17th, 2020: [Open Source Technology Improvement Fund (OSTIF)](https://ostif.org/): [Linux kernel Security Vulnerability Reporting and Remediation Practices Review](https://ostif.org/wp-content/uploads/2021/01/2020-Atredis-Partners-OSTIF-Linux-Kernel-Vulnerability-Reporting-and-Remediation-Practices-Review-Report.pdf). Sponsored by [The Linux Foundation](https://www.linuxfoundation.org/) via OSTIF, Atredis reviewed the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel)’s practices and policies around security vulnerability reporting, processing, and disclosure. As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing and review of the resulting report. OSTIF released [a post via Reddit](https://www.reddit.com/r/opensource/comments/ky3p6g/a_review_of_the_linux_kernels_vulnerability/) on this engagement, as well as a [written announcement on their official site](https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/).
 
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - June 11th, 2021: [Amazon’s Decentralization Plan: Amazon Highlights the Moral Ambiguity of Decentralization](https://hatemail.substack.com/p/amazons-decentralization-plan). Editorial editing, news research headlines, and writing support.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - May 27th, 2021: [Cops Aren’t Really Banned from NYC Pride, and That’s a Shame: Despite NYPD Ban, Organizers Say Private Security Firms Will Replace the NYPD at NYC Pride](https://hatemail.substack.com/p/cops-arent-really-banned-from-nyc). Editorial co-writing, news research headlines, and writing support;.
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - May 27th, 2021: [Cops Aren’t Really Banned from NYC Pride, and That’s a Shame: Despite NYPD Ban, Organizers Say Private Security Firms Will Replace the NYPD at NYC Pride](https://hatemail.substack.com/p/cops-arent-really-banned-from-nyc). Editorial co-writing, news research headlines, and writing support.
 
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - May 13th, 2021: [Welcome to Supply Chain Hell: Shortages Highlight Tech and Security’s Critical Role in the Global Market](https://hatemail.substack.com/p/welcome-to-supply-chain-hell). Editorial co-writing, news research headlines, and writing support.
 
@@ -54,7 +54,48 @@ Publications / Public Work
 
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - January 28, 2021: [The Online Universe of Hate Speech is Still Alive and Well: Hate Speech Thrives Despite Recent Platform Crackdowns](https://hatemail.substack.com/p/the-online-universe-of-hate-speech). Editorial editing, news research headlines, and writing support.
 
- 
+-   [secjuice](https://www.secjuice.com/) - September 21, 2018: [DEF CON Groups: What Works in 2018?](https://www.secjuice.com/defcon-groups-what-works-what-doesnt/) Editorial writing, research.
+
+-   [AfterAll Studio](http://afterallstudio.com/) - January 30th, 2013: [Move - Tunde Baiyewu](https://www.youtube.com/watch?v=E8pCEescO_g) music video. Production assistance.
+
+Education Information / Courses
+===============================
+
+-   Pacific Northwest College of Art (PNCA): Bachelor of Fine Arts (BFA), Communication Design. Dean’s Scholarship recipient. Completed in 2013.
+
+-   School of Science and Technology: High school diploma. Completed in 2009.
+
+-   Applied Physical Attacks on Embedded Systems, Introductory Version (at Portland OWASP Training Day 2018) by [Joe FitzPatrick](https://joefitz.com/Training.html)
+
+-   Japanese Conversation: Level 1, (at Portland Community College) by Tsukumo Barrett. CRN: 12499, Winter 2020
+
+-   Japanese Conversation: Level 2, (at Portland Community College) by Miyoko Fuse. Spring, 2021
+
+-   OWASP Amass: Discovering Your Exposure on the Internet (at Portland OWASP Training Day 2019) by Jeff Foley.
+
+Past Employment / Internships / Works
+=====================================
+
+-   [secjuice](https://www.secjuice.com/): secjuice is a non-profit, independent and volunteer lead publication in the information security space where I previous wrote articles, collaborated with other writers and editorial staff, provided critique and peer review of other writers and more.
+
+-   [JuiceDB](https://www.juicedb.com/): Previously I used to moderate and work on the world’s biggest e-juice / vaping database about products. Countless hours spent adding descriptions of products, cross referencing official sites for data integrity, identifying tags to merge, categorizing tags, and user experience (UX) testing of the mobile application pre-release for Apple devices.
+
+-   [The Freeman Company](https://www.freeman.com/): My role at Freeman was as a customer support online content representative. This team was responsible for spinning up websites and participating in the event and trade show event management process handling hundreds of shows yearly. I also worked with Freeman’s Canadian branches to localize bi-lingual documentation for French-Canadian events and provided support in proofing, editing, and collaborating on educational internal and external departmental documentation.
+
+-   [AfterAll Studio](http://afterallstudio.com/): In 2012 I was selected as one of AfterAll’s interns. This multi-media design studio is located in Portland, OR. One specific project I had a production assistant role in was shooting [Tunde Baiyewu’s Move music video](https://www.youtube.com/watch?v=E8pCEescO_g). You can see more of AfterAll’s work at the main website as well as the [production side of the house site](https://afterall.tv/).
+
+-   [Bent Image Lab](https://www.bentimagelab.com/): In college, I worked at Bent Image Lab to provide client services support during the fall of 2011. Sometimes this meant wrangling coffee but the main goal was to make sure meetings with clients during scoping and review went smoothly.
+
+-   [Pacific Northwest College of Art (PNCA)](https://pnca.edu/) / [Museum of Contemporary Craft (MoCC)](http://www.museumofcontemporarycraft.org/): Throughout the years I had several positions and worked on a ton of projects at PNCA / MoCC that served as foundational experience. We worked to develop and populate events on the [web calendar and management platform](http://cal.pnca.edu/) developed in house, [content managment and website redesign for MoCC](ttp://mocc.pnca.edu/), and development and support (metadata / media management) on [Mimi](http://mimi.pnca.edu), the PNCA archive platform. I am probably forgetting some things, I wore a lot of hats here!
+
+-   [Oregon Health and Science University (OHSU)](https://www.ohsu.edu/) / [Oregon Graduate Institute School of Science and Engineering (OGI)](https://en.wikipedia.org/wiki/OGI_School_of_Science_and_Engineering): As a biomedical computer science intern I was nestled in with all the researchers as they did brilliant stuff at the [Center for Spoken Language Understanding (CSLU)](https://blogs.ohsu.edu/96kmiles/2019/09/05/center-for-spoken-language-understanding-two-decades-at-the-intersection-of-speech-and-technology/). You can probably find bad ColdFusion code I wrote back then still alive.
+
+Competition Participation
+=========================
+
+-   Nolacon 2018: CG Silvers 2019 OSINT challenge as a remote member of team Tailpuft. The CG Silvers competition is an OSINT capture the flag (CTF) competition.
+
+-   BSides PDX 2018: [Trace Labs](https://www.tracelabs.org/) 2018 OSINT competition as a member of the team Qult of the Quantum Qows. This CTF involves using OSINT on real missing persons to submit information valuable to their return to law enforcement agencies.
 
 Current Organizations
 =====================
@@ -70,17 +111,23 @@ Current Organizations
 Past Organizations
 ==================
 
--   Women’s Society of Cyberjutsu: Previous membership at this org, a 501(c)3 International nonprofit community, focused on empowering women to succeed in the cybersecurity industry
+-   Women’s Society of Cyberjutsu: Previous membership at this org, a 501(c)3 International nonprofit community, focused on empowering women to succeed in the cybersecurity industry.
 
 -   [PDX2600](https://pdx2600.org/): Formerly attended the Portland chapter of [2600](https://www.meetup.com/topics/2600/), a historic hacking / phreaking meetup.
 
--   Portland Area Scientific and Cultural Advancement League (PASCAL): A now defunct Portland hackerspace where I had deep involvement in event organization, hosting, being a member, showing up and more
+-   Portland Area Scientific and Cultural Advancement League (PASCAL): A now defunct Portland hackerspace where I had deep involvement in event organization, hosting, being a member, helping out with the website, showing up to board meetings and more.
 
 -   [WWCode Portland](https://www.womenwhocode.com/portland): Previous attendee of Portland’s chapter of [WWCode (Women Who Code)](https://www.womenwhocode.com/).
 
 -   [Donut.js](https://donutjs.club/): Previous attendee of Portland’s Donut.js meetup which occurred monthly to host talks on tech, creativity, community, and the intersection of all of those topics.
 
--   Freeman Women's Development DFW Chapter: Member of the employee resource group (ERG) for women at The Freeman Company
+-   Freeman Women's Development DFW Chapter: Member of the employee resource group (ERG) for women at The Freeman Company.
+
+-   Pacific Northwest College of Art’s Student Council: During my time at PNCA I participated as a Public Programs Student Liaison to the student council. I would bring information happenings about events and communications to the council and bring information from the council back to the Public Programs / Communications department.
+
+-   Pacific Northwest College of Art’s Center4Design: This small design studio existed within the Communication Design department at PNCA and provided design services to actual clients. I worked on the design and branding work for [Maryhill Museum of Art](https://www.maryhillmuseum.org/) in Goldendale, WA located in the gorgeous Columbia River Gorge.
+
+-   Pacific Northwest College of Art’s Submit Magazine: Participated in the creation of PNCA’s student publication, Submit magazine while I was attending the school.
 
 Events
 ======
@@ -105,7 +152,9 @@ Events
 
 -   The AGORA: This was the oldest and largest security conference in the Pacific Northwest hosted at the University of Washington. Invite only and strictly adhering to Chatham House Rules. I attended from 2018-2019 when the conference concluded it’s run.
 
--   AND I can guarantee you I have forgotten some stuff on here. I’ve watched many talks / participated virtually at other conferences too.
+-   [Time Based Arts Festival (TBA:)](https://www.pica.org/tba/): Attended and volunteered for several years at the TBA festival hosted by the Portland Institute for Contemporary Art (PICA) in Portland, OR. One time I volunteered at [Mike Daisey’s ‘All The Hours in the Day’](https://www.wweek.com/portland/blog-27636-tba-diary-mike-daiseys-all-the-hours-in-the-day.html) monologue which lasted for 24 consecutive hours.
+
+-   & I can guarantee you I have forgotten some stuff on here. I’ve watched many talks / participated virtually at other conferences too.
 
 Credits
 =======
