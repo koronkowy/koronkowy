@@ -3,7 +3,7 @@
 About Me
 ========
 
-[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) / [InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Forth Worth (DFW). Current owner of two smol cats.
+[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Forth Worth (DFW). Current owner of two smol cats.
 
 About this Page
 ===============
@@ -14,7 +14,7 @@ My lovely twitter acquaintance, [Ch33r10](https://github.com/ch33r10) shared the
 
 This is going to be pretty comprehensive and serve organizationally for me as an archive point as well as somewhat of a CV or resume.
 
-I also want to highlight people / projects / conferences / etc. that I am connected with and feel passionate about.
+I also want to highlight people/projects/conferences/etc. that I am connected with and feel passionate about.
 
 Current Employment / Main Projects
 ==================================
@@ -138,7 +138,7 @@ Events
 
 -   HellaConf: Appsec conference held by the folks behind HellaSecure. I provided support during the virtual conference for information on speakers in chat as well as moderation for chat.
 
--   DEF CON® Hacking Conference: I have attended DEF CON for the years of DC20, DC21, DC24, DC26, DC27, DC28, DC29. Often sponsored by companies, I have also attended as a scholarship recipient from the Women in Security and Privacy (WISP) org. You can find me here helping host parties for Atredis Partners or getting up to shenanigans like buying the Car Hacking Village Chang Li Tiny car at DC20.
+-   DEF CON® Hacking Conference: I have attended DEF CON for the years of DC20, DC21, DC24, DC26, DC27, DC28, DC29. Often sponsored by companies, I have also attended as a scholarship recipient from the Women in Security and Privacy (WISP) org. You can find me here helping host parties for Atredis Partners or getting up to shenanigans like buying the Car Hacking Village Chang Li Tiny car at DC29.
 
 -   AppSecUSA 2018: In San Jose, I was awarded the OWASP Bay Area Diversity Sponsorship to AppSecUSA 2018. This fantastic conference on Application Security is to this date one of the best conferences I have been privileged to attend.
 
