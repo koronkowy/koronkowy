@@ -3,7 +3,7 @@
 About Me
 ========
 
-[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Forth Worth (DFW). Current owner of two smol cats.
+[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Forth Worth (DFW). Current owner of two smol cats. 私は日本語を少し話せます。どうぞよろしくお願いします。( •́ .̫ •̀ )
 
 About this Page
 ===============
@@ -24,6 +24,10 @@ Current Employment / Main Projects
 -   [LaBac Collective](https://labac.dev/) / [hatemail.io](https://hatemail.substack.com/): Current editor and occasional writer for LaBac’s newsletter on curated news, commentary, and threat actor intel while additionally serving to make the world a little bit better by helping stop tech-enabled abuse. We write editorials and have guest editorials on topics such as cybersecurity, privacy, politics, OSINT, and more.
 
 -   [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested.
+
+-   [chanscan.com](http://chanscan.com/) (beta): Created by [Jake Creps](https://github.com/jakecreps), Chanscan is a knowledge base for language used by online subcultures helping researchers, journalists, open-source intelligence analysts, threat intelligence analysts, and other users with in-line term highlighting and accompanying wiki.
+
+-   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/) 2021: This year I am helping out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) centric conference. My primary role is on the core staff as the Volunteer committee chair but I am dabbling in other areas around the conference org as well where I can.
 
 Publications / Public Work
 ==========================
