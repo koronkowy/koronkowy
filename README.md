@@ -166,6 +166,8 @@ Events
 
 -   [Eyebeam](https://www.eyebeam.org/events/refiguring-the-future-conference/): Attended in 2021, a conference that combines tech folks, artists, scholars and more in an attempt to refigure the future into a better world.
 
+-   [Infosec Campout](https://infoseccampout.com/) 2021: This magical sleepaway camping experience in the Pacific Northwest pairs infosec talks with the outdoors near Seattle, Washington. A cathartic, educational, and wholesome experience.
+
 -   [Hushcon](https://hushcon.com/) - West: Attendee in 2019, and from here on out. This is a premier security conference with hush rules on all talks that happen. I hope to attend Hushcon - East one of these days.
 
 -   The AGORA: This was the oldest and largest security conference in the Pacific Northwest hosted at the [University of Washington](https://www.washington.edu/). Invite only and strictly adhering to [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule). I attended from 2018-2019 when the conference concluded it’s run.
