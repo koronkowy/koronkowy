@@ -25,9 +25,9 @@ Current Employment / Main Projects
 
 -   [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested.
 
--   [chanscan.com](http://chanscan.com/) (beta): Created by [Jake Creps](https://github.com/jakecreps), Chanscan is a knowledge base for language used by online subcultures helping researchers, journalists, open-source intelligence analysts, threat intelligence analysts, and other users with in-line term highlighting and accompanying wiki.
+-   [chanscan.com](http://chanscan.com/) (beta): Created by [Jake Creps](https://github.com/jakecreps), ChanScan is a knowledge base for language used by online subcultures helping researchers, journalists, open-source intelligence analysts, threat intelligence analysts, and other users with in-line term highlighting and accompanying wiki.
 
--   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/) 2021: This year I am helping out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) centric conference. My primary role is on the core staff as the Volunteer committee chair but I am dabbling in other areas around the conference org as well where I can.
+-   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/) 2021: This year I am helping out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) centric conference. I am serving the org as the volunteer coordination committee chair, and I participate in or sit in on the programming, finance, partnerships, tech, and code of conduct committees.
 
 Publications / Public Work
 ==========================
@@ -36,6 +36,8 @@ Publications / Public Work
 
 -   [Atredis Partners](https://www.atredis.com/) - October 17th, 2020: [Open Source Technology Improvement Fund (OSTIF)](https://ostif.org/): [Linux kernel Security Vulnerability Reporting and Remediation Practices Review](https://ostif.org/wp-content/uploads/2021/01/2020-Atredis-Partners-OSTIF-Linux-Kernel-Vulnerability-Reporting-and-Remediation-Practices-Review-Report.pdf). Sponsored by [The Linux Foundation](https://www.linuxfoundation.org/) via OSTIF, Atredis reviewed the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel)’s practices and policies around security vulnerability reporting, processing, and disclosure. As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing and review of the resulting report. OSTIF released [a post via Reddit](https://www.reddit.com/r/opensource/comments/ky3p6g/a_review_of_the_linux_kernels_vulnerability/) on this engagement, as well as a [written announcement on their official site](https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/).
 
+-   SeaGL - October, 2021: [Code of Conduct](https://seagl.org/code_of_conduct). Co-writing, policy development, documentation, review and publishing. See blog post about the CoC launch [here](https://seagl.org/news/2021/10/19/coc-update.html).
+
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - August 19th, 2021: [The Taliban Have Seized U.S. Military Biometric Data of Afghan Civilians: The U.S. Military Collected Biometric Data on Afghan Civilians](https://hatemail.substack.com/p/the-taliban-have-seized-us-military). Now the Taliban have it. Editorial editing, editorial co-writing, news research headlines, and writing support.
 
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - June 11th, 2021: [Amazon’s Decentralization Plan: Amazon Highlights the Moral Ambiguity of Decentralization](https://hatemail.substack.com/p/amazons-decentralization-plan). Editorial editing, news research headlines, and writing support.
@@ -43,6 +45,10 @@ Publications / Public Work
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - May 27th, 2021: [Cops Aren’t Really Banned from NYC Pride, and That’s a Shame: Despite NYPD Ban, Organizers Say Private Security Firms Will Replace the NYPD at NYC Pride](https://hatemail.substack.com/p/cops-arent-really-banned-from-nyc). Editorial co-writing, news research headlines, and writing support.
 
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - May 13th, 2021: [Welcome to Supply Chain Hell: Shortages Highlight Tech and Security’s Critical Role in the Global Market](https://hatemail.substack.com/p/welcome-to-supply-chain-hell). Editorial co-writing, news research headlines, and writing support.
+
+-   [Atredis Partners](https://www.atredis.com/) - May 6, 2021: [CVE-2021-32030](https://nvd.nist.gov/vuln/detail/CVE-2021-32030): [ASUS GT-AC2900 Authentication Bypass](https://www.atredis.com/blog/2021/4/30/asus-authentication-bypass). Technical editing and blog writing support for Chris Bellows.
+
+-   [Atredis Partners](https://www.atredis.com/) - April 26, 2021: [NANDcromancy: Live Swapping NAND Flash](https://www.atredis.com/blog/2021/4/23/live-nand-swap). Technical editing and blog writing support for Chris Bellows.
 
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - April 29th, 2021: [When You Weren’t Looking, the Surveillance State Grew: Who Needs Science Fiction When There’s Surveillance Policing? / Hacking Legend and “All Around Nice Guy,” Dan Kaminsky Passes Away at 42](https://hatemail.substack.com/p/when-you-werent-looking-the-surveillance). Editorial editing, editorial co-writing, news research headlines, and writing support.
 
@@ -59,10 +65,6 @@ Publications / Public Work
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - February 4th, 2021: [Do Telegram Nazis Dream of Electric Reichs? The Online Trends of Nazi Telegram](https://hatemail.substack.com/p/do-telegram-nazis-dream-of-electric): Guest editorial by members of [Tech Against Fascism](https://againstfascism.tec). Editorial editing, news research headlines, and writing support.
 
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - January 28, 2021: [The Online Universe of Hate Speech is Still Alive and Well: Hate Speech Thrives Despite Recent Platform Crackdowns](https://hatemail.substack.com/p/the-online-universe-of-hate-speech). Editorial editing, news research headlines, and writing support.
-
--   [Atredis Partners](https://www.atredis.com/) - May 6, 2021: [CVE-2021-32030](https://nvd.nist.gov/vuln/detail/CVE-2021-32030): [ASUS GT-AC2900 Authentication Bypass](https://www.atredis.com/blog/2021/4/30/asus-authentication-bypass). Technical editing and blog writing support for Chris Bellows.
-
--   [Atredis Partners](https://www.atredis.com/) - April 26, 2021: [NANDcromancy: Live Swapping NAND Flash](https://www.atredis.com/blog/2021/4/23/live-nand-swap). Technical editing and blog writing support for Chris Bellows.
 
 -   [Atredis Partners](https://www.atredis.com/) - December 7th, 2020: [Authenticated RCE in Pydio (Forever-Day)](https://www.atredis.com/blog/2020/11/12/authenticated-rce-in-pydio-forever-day) — [CVE-2020-28913](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-28913). Technical editing and blog writing support for Brandon Perry with additional technical peer review from Dion Blazakis.
 
@@ -120,8 +122,6 @@ Current Organizations
 
 -   [Open Web Application Security Project (OWASP) Portland Chapter](https://owasp.org/www-chapter-portland/) & [Seattle Chapter](https://owasp.org/www-chapter-seattle/): I am a lifetime member of the [OWASP organization](https://owasp.org/) and am connected to the Portland chapter. Soon, I want to be involved in the Seattle chapter.
 
--   [CTRL-H - PDX Makerspace](https://pdxhackerspace.org/): I am a patron of the Portland [hackerspace](https://en.wikipedia.org/wiki/Hackerspace) currently but I have also participated in and attended regular meetups there such as PDX Exploit Workshop (a security meetup), [Dork Bot](https://dorkbotpdx.org/) (a makerspace focused meetup), Open Hack Nights and Open Houses (general meetups)
-
 Past Organizations
 ==================
 
@@ -130,6 +130,8 @@ Past Organizations
 -   [PDX2600](https://pdx2600.org/): Formerly attended the Portland chapter of [2600](https://www.meetup.com/topics/2600/), a historic hacking / phreaking meetup.
 
 -   [Portland Area Scientific and Cultural Advancement League (PASCAL)](https://www.pascalpdx.org/): A now defunct Portland hackerspace where I had deep involvement in event organization, hosting, being a member, helping out with the website, showing up to board meetings and more.
+
+-   [CTRL-H - PDX Makerspace](https://pdxhackerspace.org/): I am a former patron of the Portland [hackerspace](https://en.wikipedia.org/wiki/Hackerspace) where I participated in and attended regular meetups there such as PDX Exploit Workshop (a security meetup), [Dork Bot](https://dorkbotpdx.org/) (a makerspace focused meetup), Open Hack Nights and Open Houses (general meetups).
 
 -   [WWCode Portland](https://www.womenwhocode.com/portland): Previous attendee of Portland’s chapter of [WWCode (Women Who Code)](https://www.womenwhocode.com/).
 
@@ -152,11 +154,13 @@ Events
 
 -   [HellaConf](https://www.youtube.com/playlist?list=PLb47HxNiZ8g8JN1zvoI2zwy-zdey3nBf9): Appsec conference held by the folks behind [HellaSecure](https://www.hella-secure.com/). I provided support during the virtual conference for information on speakers in chat as well as moderation for chat.
 
--   [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), DC29. Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). You can find me here helping host parties for Atredis Partners or getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29.
+-   [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), [DC29](https://defcon.org/html/defcon-29/dc-29-speakers.html). Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). You can find me here helping host parties for Atredis Partners or getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29.
 
 -   [AppSecUSA 2018](https://2018.appsecusa.org/): In San Jose, I was awarded the [OWASP Bay Area](https://owasp.org/www-chapter-bay-area/) Diversity Sponsorship to AppSecUSA 2018. This fantastic conference on Application Security is to this date one of the best conferences I have been privileged to attend.
 
 -   [The Diana Initiative (TDI)](https://www.dianainitiative.org/): Volunteer as a community manager and InfoBooth volunteer for the 2020 TDI conference including learning how to spot and report abuse, troubleshoot the [Hopin](https://hopin.com/) platform, and more.
+
+-   [ToorCon](https://toorcon.net/) / [ToorCamp](https://toorcamp.toorcon.net/): Attended Toorcon in 2021, with sitting seat for Toorcamp the next time it happens. This conference is fantastic at making opportunities for genuine connection to happen and brings fantastic speakers yearly to San Diego.
 
 -   [ShellConLA](https://shellcon.io/): Attendee in 2020, I plan to attend every year this local to Los Angeles security conference.
 
