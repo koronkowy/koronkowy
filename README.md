@@ -38,6 +38,8 @@ Publications / Public Work
 
 -   SeaGL - October, 2021: [Code of Conduct](https://seagl.org/code_of_conduct). Co-writing, policy development, documentation, review and publishing. See blog post about the CoC launch [here](https://seagl.org/news/2021/10/19/coc-update.html).
 
+-   [Cloakwire](https://cloakwire.com/) - October 2021: [Mai Finance - Qi DAO Security Audit (public)](https://cloakwire.com/wp-content/uploads/sites/3/2021/10/Mai-Finance-Qi-Dao-Security-Audit-October-2021-v-1.3-PDF.pdf). Technical editing on an external penetration test, vulnerability assessment, and smart contract audit.
+
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - August 19th, 2021: [The Taliban Have Seized U.S. Military Biometric Data of Afghan Civilians: The U.S. Military Collected Biometric Data on Afghan Civilians](https://hatemail.substack.com/p/the-taliban-have-seized-us-military). Now the Taliban have it. Editorial editing, editorial co-writing, news research headlines, and writing support.
 
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - June 11th, 2021: [Amazon’s Decentralization Plan: Amazon Highlights the Moral Ambiguity of Decentralization](https://hatemail.substack.com/p/amazons-decentralization-plan). Editorial editing, news research headlines, and writing support.
