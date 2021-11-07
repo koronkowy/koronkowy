@@ -25,9 +25,7 @@ Current Employment / Main Projects
 
 -   [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested.
 
--   [chanscan.com](http://chanscan.com/) (beta): Created by [Jake Creps](https://github.com/jakecreps), ChanScan is a knowledge base for language used by online subcultures helping researchers, journalists, open-source intelligence analysts, threat intelligence analysts, and other users with in-line term highlighting and accompanying wiki.
-
--   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/) 2021: This year I am helping out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) centric conference. I am serving the org as the volunteer coordination committee chair, and I participate in or sit in on the programming, finance, partnerships, tech, and code of conduct committees.
+-   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): This year (2021) I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I am serving the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participate in or sit in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix  server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference.
 
 Publications / Public Work
 ==========================
@@ -35,6 +33,8 @@ Publications / Public Work
 -   [Atredis Partners](https://www.atredis.com/) - August 6th, 2020: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/): [Attacking Kubernetes: A Guide for Administrators and Penetration Testers](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/AtredisPartners_Attacking_Kubernetes-v1.0.pdf). You can read more about this open-source security audit on the [CNCF official blog](https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/). As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing of the Atredis Partners white paper. Additionally, a [CVE](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures) came out of this engagement credited to Charles Holmes at Atredis Partners, [CVE-2019-11246](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11246).
 
 -   [Atredis Partners](https://www.atredis.com/) - October 17th, 2020: [Open Source Technology Improvement Fund (OSTIF)](https://ostif.org/): [Linux kernel Security Vulnerability Reporting and Remediation Practices Review](https://ostif.org/wp-content/uploads/2021/01/2020-Atredis-Partners-OSTIF-Linux-Kernel-Vulnerability-Reporting-and-Remediation-Practices-Review-Report.pdf). Sponsored by [The Linux Foundation](https://www.linuxfoundation.org/) via OSTIF, Atredis reviewed the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel)’s practices and policies around security vulnerability reporting, processing, and disclosure. As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing and review of the resulting report. OSTIF released [a post via Reddit](https://www.reddit.com/r/opensource/comments/ky3p6g/a_review_of_the_linux_kernels_vulnerability/) on this engagement, as well as a [written announcement on their official site](https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/).
+
+-   [Atredis Partners](https://www.atredis.com/) - October 29, 2021: [Exploring Unified Diagnostic Services with uds-zoo](https://www.atredis.com/blog/2021/10/26/uds-zoo). Technical editing and blog writing support for Chris Bellows and Tom Steele for the release of [uds-zoo](https://github.com/atredispartners/uds-zoo).
 
 -   SeaGL - October, 2021: [Code of Conduct](https://seagl.org/code_of_conduct). Co-writing, policy development, documentation, review and publishing. See blog post about the CoC launch [here](https://seagl.org/news/2021/10/19/coc-update.html).
 
@@ -89,10 +89,32 @@ Education Information / Courses
 
 -   [OWASP Amass](https://github.com/OWASP/Amass): Discovering Your Exposure on the Internet (at Portland OWASP Training Day 2019) by [Jeff Foley](https://twitter.com/jeff_foley).
 
-Past Employment / Internships / Works
-=====================================
+ 
+
+Additionally I am currently enrolled in:
+
+-   Project Management Professional (PMP) Prep 1 (self-paced through Portland Community College)
+
+-   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Introduction (LFC202)
+
+-   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Business Strategy (LFC203)
+
+-   [The Linux Foundation](https://www.linuxfoundation.org/) - Effective Open Source Program Management (LFC204)
+
+-   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Development Practices (LFC205)
+
+-   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Compliance Programs (LFC206)
+
+-   [The Linux Foundation](https://www.linuxfoundation.org/) - Collaborating Effectively with Open Source Projects (LFC207)
+
+-   [The Linux Foundation](https://www.linuxfoundation.org/) - Creating Open Source Projects (LFC208)
+
+Past Employment / Internships / Works / Projects
+================================================
 
 -   [secjuice](https://www.secjuice.com/): secjuice is a non-profit, independent and volunteer lead publication in the information security space where I previous wrote articles, collaborated with other writers and editorial staff, provided critique and peer review of other writers and more.
+
+-   [chanscan.com](http://chanscan.com/): Created by [Jake Creps](https://github.com/jakecreps), ChanScan was an open source knowledge base for language used by online subcultures helping researchers, journalists, open-source intelligence (OSINT) analysts, threat intelligence analysts, and other users with in-line term highlighting and accompanying wiki. I wrote a lot of wiki entries and helped in discussing feature planning and collaboration.
 
 -   [JuiceDB](https://www.juicedb.com/): Previously I used to moderate and work on the world’s biggest e-juice / vaping database about products. Countless hours spent adding descriptions of products, cross referencing official sites for data integrity, identifying tags to merge, categorizing tags, and user experience (UX) testing of the mobile application pre-release for Apple devices.
 
