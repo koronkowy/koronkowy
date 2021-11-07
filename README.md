@@ -89,8 +89,6 @@ Education Information / Courses
 
 -   [OWASP Amass](https://github.com/OWASP/Amass): Discovering Your Exposure on the Internet (at Portland OWASP Training Day 2019) by [Jeff Foley](https://twitter.com/jeff_foley).
 
- 
-
 Additionally I am currently enrolled in:
 
 -   Project Management Professional (PMP) Prep 1 (self-paced through Portland Community College)
