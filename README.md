@@ -25,7 +25,7 @@ Current Employment / Main Projects
 
 -   [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested.
 
--   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): This year (2021) I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I am serving the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participate in or sit in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix  server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference.
+-   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): This year (2021) I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I am serving the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participate in or sit in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference.
 
 Publications / Public Work
 ==========================
@@ -34,11 +34,15 @@ Publications / Public Work
 
 -   [Atredis Partners](https://www.atredis.com/) - October 17th, 2020: [Open Source Technology Improvement Fund (OSTIF)](https://ostif.org/): [Linux kernel Security Vulnerability Reporting and Remediation Practices Review](https://ostif.org/wp-content/uploads/2021/01/2020-Atredis-Partners-OSTIF-Linux-Kernel-Vulnerability-Reporting-and-Remediation-Practices-Review-Report.pdf). Sponsored by [The Linux Foundation](https://www.linuxfoundation.org/) via OSTIF, Atredis reviewed the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel)’s practices and policies around security vulnerability reporting, processing, and disclosure. As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing and review of the resulting report. OSTIF released [a post via Reddit](https://www.reddit.com/r/opensource/comments/ky3p6g/a_review_of_the_linux_kernels_vulnerability/) on this engagement, as well as a [written announcement on their official site](https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/).
 
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - January 17, 2022: [Here's How We Use DMCA to Fight Nonconsensual Pornography](https://hatemail.substack.com/p/heres-how-we-use-dmca-to-fight-nonconsensual). Editorial editing, editorial co-writing, news research headlines, job posting research, and writing support.
+
+-   [Atredis Partners](https://www.atredis.com/) - January 6, 2022: [Unauthenticated Remote Code Execution Chain in SysAid ITIL -- CVE-2021-43971, CVE-2021-43972, CVE-2021-43973, CVE-2021-43974](https://www.atredis.com/blog/2022/1/5/unauthenticated-rce-chain-in-sysaid-itil). Technical editing and blog writing support for Brandon Perry.
+
 -   [Atredis Partners](https://www.atredis.com/) - October 29, 2021: [Exploring Unified Diagnostic Services with uds-zoo](https://www.atredis.com/blog/2021/10/26/uds-zoo). Technical editing and blog writing support for Chris Bellows and Tom Steele for the release of [uds-zoo](https://github.com/atredispartners/uds-zoo).
 
 -   SeaGL - October, 2021: [Code of Conduct](https://seagl.org/code_of_conduct). Co-writing, policy development, documentation, review and publishing. See blog post about the CoC launch [here](https://seagl.org/news/2021/10/19/coc-update.html).
 
--   [Cloakwire](https://cloakwire.com/) - October 2021: [Mai Finance - Qi DAO Security Audit (public)](https://cloakwire.com/wp-content/uploads/sites/3/2021/10/Mai-Finance-Qi-Dao-Security-Audit-October-2021-v-1.3-PDF.pdf). Technical editing on an external penetration test, vulnerability assessment, and smart contract audit.
+-   [Cloakwire](https://cloakwire.com/) - October 2021: [Mai Finance - Qi DAO Security Audit (public)](https://cloakwire.com/wp-content/uploads/sites/3/2021/10/Mai-Finance-Qi-Dao-Security-Audit-October-2021-v-1.3-PDF.pdf). Technical editing on an external penetration test and vulnerability assessment and smart contract audit.
 
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - August 19th, 2021: [The Taliban Have Seized U.S. Military Biometric Data of Afghan Civilians: The U.S. Military Collected Biometric Data on Afghan Civilians](https://hatemail.substack.com/p/the-taliban-have-seized-us-military). Now the Taliban have it. Editorial editing, editorial co-writing, news research headlines, and writing support.
 
@@ -85,6 +89,8 @@ Education Information / Courses
 
 -   Applied Physical Attacks on Embedded Systems, Introductory Version (at Portland OWASP Training Day 2018) by [Joe FitzPatrick](https://joefitz.com/Training.html)
 
+-   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Introduction (LFC202) - Completed Dec 2021.
+
 -   Japanese Conversation: Level 1, (at Portland Community College) by Tsukumo Barrett. CRN: 12499, Winter 2020
 
 -   Japanese Conversation: Level 2, (at Portland Community College) by Miyoko Fuse. Spring, 2021
@@ -92,10 +98,6 @@ Education Information / Courses
 -   [OWASP Amass](https://github.com/OWASP/Amass): Discovering Your Exposure on the Internet (at Portland OWASP Training Day 2019) by [Jeff Foley](https://twitter.com/jeff_foley).
 
 Additionally I am currently enrolled in:
-
--   Project Management Professional (PMP) Prep 1 (self-paced through Portland Community College)
-
--   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Introduction (LFC202)
 
 -   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Business Strategy (LFC203)
 
