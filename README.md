@@ -25,7 +25,7 @@ Current Employment / Main Projects
 
 -   [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested.
 
--   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): This year (2021) I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I am serving the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participate in or sit in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference.
+-   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): Last year (2021) I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I served the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participated in or sat in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference. For 2022 I will be returning to work on this conference as a co-chair of the Outreach committee.
 
 Publications / Public Work
 ==========================
@@ -33,6 +33,8 @@ Publications / Public Work
 -   [Atredis Partners](https://www.atredis.com/) - August 6th, 2020: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/): [Attacking Kubernetes: A Guide for Administrators and Penetration Testers](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/AtredisPartners_Attacking_Kubernetes-v1.0.pdf). You can read more about this open-source security audit on the [CNCF official blog](https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/). As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing of the Atredis Partners white paper. Additionally, a [CVE](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures) came out of this engagement credited to Charles Holmes at Atredis Partners, [CVE-2019-11246](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11246).
 
 -   [Atredis Partners](https://www.atredis.com/) - October 17th, 2020: [Open Source Technology Improvement Fund (OSTIF)](https://ostif.org/): [Linux kernel Security Vulnerability Reporting and Remediation Practices Review](https://ostif.org/wp-content/uploads/2021/01/2020-Atredis-Partners-OSTIF-Linux-Kernel-Vulnerability-Reporting-and-Remediation-Practices-Review-Report.pdf). Sponsored by [The Linux Foundation](https://www.linuxfoundation.org/) via OSTIF, Atredis reviewed the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel)’s practices and policies around security vulnerability reporting, processing, and disclosure. As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing and review of the resulting report. OSTIF released [a post via Reddit](https://www.reddit.com/r/opensource/comments/ky3p6g/a_review_of_the_linux_kernels_vulnerability/) on this engagement, as well as a [written announcement on their official site](https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/).
+
+-   [Atredis Partners](https://www.atredis.com/) - March 29, 2022: [Veni, MIDI, Vici — Conquering CVE-2022-22657 and CVE-2022-22664](https://www.atredis.com/blog/2022/03/29/veni-midi-vici-conquering-cve-2022-22657-and-cve-2022-22664). Technical editing and blog writing support for Brandon Perry.
 
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - January 17, 2022: [Here's How We Use DMCA to Fight Nonconsensual Pornography](https://hatemail.substack.com/p/heres-how-we-use-dmca-to-fight-nonconsensual). Editorial editing, editorial co-writing, news research headlines, job posting research, and writing support.
 
@@ -142,14 +144,14 @@ Current Organizations
 
 -   [SeaSec](https://www.meetup.com/SeaSec/) / [SeaSec East](https://www.meetup.com/SEASec-East/): I attend SeaSec/SeaSec, one of Seattle’s local area security meetups.
 
--   [DEF CON Groups](https://twitter.com/defcongroups): DC Group [#dc541](https://forum.defcon.org/node/231682), Eugene, OR: This is my home [DEF CON](https://defcon.org/) group where we meet on the second Saturday of the month.
-
 -   [Open Web Application Security Project (OWASP) Portland Chapter](https://owasp.org/www-chapter-portland/) & [Seattle Chapter](https://owasp.org/www-chapter-seattle/): I am a lifetime member of the [OWASP organization](https://owasp.org/) and am connected to the Portland chapter. Soon, I want to be involved in the Seattle chapter.
 
 Past Organizations
 ==================
 
 -   [Women’s Society of Cyberjutsu](https://womenscyberjutsu.org/): Previous membership at this org, a 501(c)3 International nonprofit community, focused on empowering women to succeed in the cybersecurity industry.
+
+-   [DEF CON Groups](https://twitter.com/defcongroups): DC Group [#dc541](https://forum.defcon.org/node/231682), Eugene, OR: My home [DEF CON](https://defcon.org/) group where we met on the second Saturday of the month.
 
 -   [PDX2600](https://pdx2600.org/): Formerly attended the Portland chapter of [2600](https://www.meetup.com/topics/2600/), a historic hacking / phreaking meetup.
 
@@ -186,17 +188,19 @@ Events
 
 -   [ToorCon](https://toorcon.net/) / [ToorCamp](https://toorcamp.toorcon.net/): Attended Toorcon in 2021, with sitting seat for Toorcamp the next time it happens. This conference is fantastic at making opportunities for genuine connection to happen and brings fantastic speakers yearly to San Diego.
 
--   [ShellConLA](https://shellcon.io/): Attendee in 2020, I plan to attend every year this local to Los Angeles security conference.
+-   [Hushcon](https://hushcon.com/): Attended Hushcon West in 2019, and from here on out. This is a premier security conference with hush rules on all talks that happen. I will be attending Hushcon East: in 2022.
 
 -   [Security BSides](http://www.securitybsides.com/) - [BSides Las Vegas](https://www.bsideslv.org/) 2019: As a BSides organizer I attended BSides Las Vegas in 2019 which is a fantastic Security BSides but also there’s a meetup within this conference where BSides organizers from all over share knowledge.
 
 -   [Security BSides](http://www.securitybsides.com/) - BSides Boise 2019: I had the pleasure of visiting BSides Boise in 2019, a conference in Idaho that blends several regions of Idaho into one conference. This is now called [BSides Idaho](https://www.bsidesidaho.org/).
 
+-   [Shmoocon](https://www.shmoocon.org/): Attendee in 2022, an exclusive security conference located in Washington, D.C.
+
 -   [Eyebeam](https://www.eyebeam.org/events/refiguring-the-future-conference/): Attended in 2021, a conference that combines tech folks, artists, scholars and more in an attempt to refigure the future into a better world.
 
 -   [Infosec Campout](https://infoseccampout.com/) 2021: This magical sleepaway camping experience in the Pacific Northwest pairs infosec talks with the outdoors near Seattle, Washington. A cathartic, educational, and wholesome experience.
 
--   [Hushcon](https://hushcon.com/) - West: Attendee in 2019, and from here on out. This is a premier security conference with hush rules on all talks that happen. I hope to attend Hushcon - East one of these days.
+-   [ShellConLA](https://shellcon.io/): Attendee in 2020 and 2021, a local Los Angeles security conference.
 
 -   The AGORA: This was the oldest and largest security conference in the Pacific Northwest hosted at the [University of Washington](https://www.washington.edu/). Invite only and strictly adhering to [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule). I attended from 2018-2019 when the conference concluded it’s run.
 
