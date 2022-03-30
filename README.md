@@ -3,7 +3,7 @@
 About Me
 ========
 
-[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Forth Worth (DFW). Current owner of two smol cats. 私は日本語を少し話せます。どうぞよろしくお願いします。( •́ .̫ •̀ )
+[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Fort Worth (DFW). Current owner of two smol cats. 私は日本語を少し話せます。どうぞよろしくお願いします。( •́ .̫ •̀ )
 
 About this Page
 ===============
