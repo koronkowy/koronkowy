@@ -3,7 +3,7 @@
 About Me
 ========
 
-[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Forth Worth (DFW). Current owner of two smol cats. 私は日本語を少し話せます。どうぞよろしくお願いします。( •́ .̫ •̀ )
+[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Forth Worth (DFW). Current owner of two smol cats.
 
 About this Page
 ===============
@@ -19,13 +19,11 @@ I also want to highlight people/projects/conferences/etc. that I am connected wi
 Current Employment / Main Projects
 ==================================
 
--   [Atredis Partners](https://www.atredis.com/): My day job is being the lovely on-staff tech editor / tech writer for the attack research and penetration testing consultancy firm, Atredis Partners. My job also involves working as part of the Client Operations team in part of the sales engineering / scoping side of things, social media management including working on blog posts, being passionate about our vulnerability disclosure process, and wearing some other hats.
+-   [GreyNoise, Intelligence](https://www.greynoise.io/): I am one of the friendly Sales Engineers enabling sales to happen from a engineering perspective including in-depth demos, proof of value (POV) engagements, and creating content that documents and reflects on all the integrations and great things you can do with GreyNoise. We can chat whenever [here](https://www.greynoise.io/contact-greynoise-sales), but the GreyNoise Slack and community events are fantastic ways to get introduced, or going to [http://viz.greynoise.io/](http://viz.greynoise.io/) to directly take a look. Also, we’re looking to hire more Sales Engineers and Sales Representatives, so please reach out if you’re looking for work (See our career openings [here](https://jobs.greynoise.io/)).
 
 -   [LaBac Collective](https://labac.dev/) / [hatemail.io](https://hatemail.substack.com/): Current editor and occasional writer for LaBac’s newsletter on curated news, commentary, and threat actor intel while additionally serving to make the world a little bit better by helping stop tech-enabled abuse. We write editorials and have guest editorials on topics such as cybersecurity, privacy, politics, OSINT, and more.
 
 -   [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested.
-
--   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): Last year (2021) I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I served the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participated in or sat in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference. For 2022 I will be returning to work on this conference as a co-chair of the Outreach committee.
 
 Publications / Public Work
 ==========================
@@ -42,11 +40,11 @@ Publications / Public Work
 
 -   [Atredis Partners](https://www.atredis.com/) - October 29, 2021: [Exploring Unified Diagnostic Services with uds-zoo](https://www.atredis.com/blog/2021/10/26/uds-zoo). Technical editing and blog writing support for Chris Bellows and Tom Steele for the release of [uds-zoo](https://github.com/atredispartners/uds-zoo).
 
--   SeaGL - October, 2021: [Code of Conduct](https://seagl.org/code_of_conduct). Co-writing, policy development, documentation, review and publishing. See blog post about the CoC launch [here](https://seagl.org/news/2021/10/19/coc-update.html).
+-   SeaGL - October, 2021: [Code of Conduct](https://seagl.org/code_of_conduct). Co-writing, policy development, documentation, review and publishing. See blog post about the Code of Conduct (CoC) launch [here](https://seagl.org/news/2021/10/19/coc-update.html).
 
 -   [Cloakwire](https://cloakwire.com/) - October 2021: [Mai Finance - Qi DAO Security Audit (public)](https://cloakwire.com/wp-content/uploads/sites/3/2021/10/Mai-Finance-Qi-Dao-Security-Audit-October-2021-v-1.3-PDF.pdf). Technical editing on an external penetration test and vulnerability assessment and smart contract audit.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - August 19th, 2021: [The Taliban Have Seized U.S. Military Biometric Data of Afghan Civilians: The U.S. Military Collected Biometric Data on Afghan Civilians](https://hatemail.substack.com/p/the-taliban-have-seized-us-military). Now the Taliban have it. Editorial editing, editorial co-writing, news research headlines, and writing support.
+-   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - August 19th, 2021: [The Taliban Have Seized U.S. Military Biometric Data of Afghan Civilians: The U.S. Military Collected Biometric Data on Afghan Civilians. Now the Taliban have it.](https://hatemail.substack.com/p/the-taliban-have-seized-us-military) Editorial editing, editorial co-writing, news research headlines, and writing support.
 
 -   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - June 11th, 2021: [Amazon’s Decentralization Plan: Amazon Highlights the Moral Ambiguity of Decentralization](https://hatemail.substack.com/p/amazons-decentralization-plan). Editorial editing, news research headlines, and writing support.
 
@@ -101,6 +99,8 @@ Education Information / Courses
 
 Additionally I am currently enrolled in:
 
+-   [Andy Whyte’s MEDDPICC Masterclass](https://learn.meddicc.com/courses/learn-meddpicc)
+
 -   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Business Strategy (LFC203)
 
 -   [The Linux Foundation](https://www.linuxfoundation.org/) - Effective Open Source Program Management (LFC204)
@@ -116,7 +116,9 @@ Additionally I am currently enrolled in:
 Past Employment / Internships / Works / Projects
 ================================================
 
--   [secjuice](https://www.secjuice.com/): secjuice is a non-profit, independent and volunteer lead publication in the information security space where I previous wrote articles, collaborated with other writers and editorial staff, provided critique and peer review of other writers and more.
+-   [Atredis Partners](https://www.atredis.com/): At Atredis, an attack research and penetration testing consultancy firm,  my day job was being the lovely on-staff tech editor / tech writer. Due to the nature of my work, much of it fell under heavy non-disclosure. But there’s some fun public work that’s listed in the publications section here. My job also involved working as part of the Client Operations team in part of the sales engineering / scoping side of things, social media management including working on blog posts, being passionate about our vulnerability disclosure process, and wearing some other hats.
+
+-   [secjuice](https://www.secjuice.com/): secjuice is a non-profit, independent and volunteer lead publication in the information security space where I previously wrote articles, collaborated with other writers and editorial staff, provided critique and peer review of other writers and more.
 
 -   [chanscan.com](http://chanscan.com/): Created by [Jake Creps](https://github.com/jakecreps), ChanScan was an open source knowledge base for language used by online subcultures helping researchers, journalists, open-source intelligence (OSINT) analysts, threat intelligence analysts, and other users with in-line term highlighting and accompanying wiki. I wrote a lot of wiki entries and helped in discussing feature planning and collaboration.
 
@@ -142,7 +144,7 @@ Competition Participation
 Current Organizations
 =====================
 
--   [SeaSec](https://www.meetup.com/SeaSec/) / [SeaSec East](https://www.meetup.com/SEASec-East/): I attend SeaSec/SeaSec, one of Seattle’s local area security meetups.
+-   [Scarecrow Video](https://www.scarecrow.com/index.html): Supporting and being a member of the Scarecrow Video, an independently owned non-profit video sales and rental store in Seattle, WA. It has over 132,000 titles.
 
 -   [Open Web Application Security Project (OWASP) Portland Chapter](https://owasp.org/www-chapter-portland/) & [Seattle Chapter](https://owasp.org/www-chapter-seattle/): I am a lifetime member of the [OWASP organization](https://owasp.org/) and am connected to the Portland chapter. Soon, I want to be involved in the Seattle chapter.
 
@@ -151,11 +153,13 @@ Past Organizations
 
 -   [Women’s Society of Cyberjutsu](https://womenscyberjutsu.org/): Previous membership at this org, a 501(c)3 International nonprofit community, focused on empowering women to succeed in the cybersecurity industry.
 
--   [DEF CON Groups](https://twitter.com/defcongroups): DC Group [#dc541](https://forum.defcon.org/node/231682), Eugene, OR: My home [DEF CON](https://defcon.org/) group where we met on the second Saturday of the month.
+-   [DEF CON Groups](https://twitter.com/defcongroups): DC Group [#dc541](https://forum.defcon.org/node/231682), Eugene, OR: My home [DEF CON](https://defcon.org/) group where we met on the second Saturday of the month. I am still involved online with this group.
 
 -   [PDX2600](https://pdx2600.org/): Formerly attended the Portland chapter of [2600](https://www.meetup.com/topics/2600/), a historic hacking / phreaking meetup.
 
 -   [Portland Area Scientific and Cultural Advancement League (PASCAL)](https://www.pascalpdx.org/): A now defunct Portland hackerspace where I had deep involvement in event organization, hosting, being a member, helping out with the website, showing up to board meetings and more.
+
+-   [SeaSec](https://www.meetup.com/SeaSec/) / [SeaSec East](https://www.meetup.com/SEASec-East/): I attended SeaSec/SeaSec, one of Seattle’s local area security meetups. Currently on hold going until in-person things start happening again.
 
 -   [CTRL-H - PDX Makerspace](https://pdxhackerspace.org/): I am a former patron of the Portland [hackerspace](https://en.wikipedia.org/wiki/Hackerspace) where I participated in and attended regular meetups there such as PDX Exploit Workshop (a security meetup), [Dork Bot](https://dorkbotpdx.org/) (a makerspace focused meetup), Open Hack Nights and Open Houses (general meetups).
 
@@ -176,25 +180,29 @@ Events
 
 -   [Security BSides](http://www.securitybsides.com/) - [BSides PDX](https://bsidespdx.org/): Previously organizer who wore many hats in this organization, 2018-2021. Lead sponsorship to a level of growth of $100,000+ in sponsorship contributions, built countless relationships new and old with vendors. Sat on the board of directors from 2019-2021, ran for election and ran for chairman seat. There are few parts of this conference that I didn’t have my hands in.
 
+-   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): In 2021 I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I served the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participated in or sat in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference. For 2022, I am taking a break from organizing as I spin up on my new job at [GreyNoise, Intelligence](https://www.greynoise.io/).
+
 -   [HackBoat](https://hackboat.org/): Conference organizer including help found the initial conference, social media, speaker organization and assistance. Event on hold due to COVID-19, but we will return as soon as it is safe.
 
 -   [HellaConf](https://www.youtube.com/playlist?list=PLb47HxNiZ8g8JN1zvoI2zwy-zdey3nBf9): Appsec conference held by the folks behind [HellaSecure](https://www.hella-secure.com/). I provided support during the virtual conference for information on speakers in chat as well as moderation for chat.
 
--   [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), [DC29](https://defcon.org/html/defcon-29/dc-29-speakers.html). Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). You can find me here helping host parties for Atredis Partners or getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29.
+-   [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), [DC29](https://defcon.org/html/defcon-29/dc-29-speakers.html). Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). You can find me here helping host parties for Atredis Partners or getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29. I will be attending DC30.
 
 -   [AppSecUSA 2018](https://2018.appsecusa.org/): In San Jose, I was awarded the [OWASP Bay Area](https://owasp.org/www-chapter-bay-area/) Diversity Sponsorship to AppSecUSA 2018. This fantastic conference on Application Security is to this date one of the best conferences I have been privileged to attend.
 
 -   [The Diana Initiative (TDI)](https://www.dianainitiative.org/): Volunteer as a community manager and InfoBooth volunteer for the 2020 TDI conference including learning how to spot and report abuse, troubleshoot the [Hopin](https://hopin.com/) platform, and more.
 
--   [ToorCon](https://toorcon.net/) / [ToorCamp](https://toorcamp.toorcon.net/): Attended Toorcon in 2021, with sitting seat for Toorcamp the next time it happens. This conference is fantastic at making opportunities for genuine connection to happen and brings fantastic speakers yearly to San Diego.
+-   [ToorCon](https://toorcon.net/) / [ToorCamp](https://toorcamp.toorcon.net/): Attended Toorcon in 2021. This conference is fantastic at making opportunities for genuine connection to happen and brings fantastic speakers yearly to San Diego. One day I will make it out to ToorCamp.
 
--   [Hushcon](https://hushcon.com/): Attended Hushcon West in 2019, and from here on out. This is a premier security conference with hush rules on all talks that happen. I will be attending Hushcon East: in 2022.
+-   [Hushcon](https://hushcon.com/): Attended Hushcon West in 2019, and from here on out. This is a premier security conference with hush rules on all talks that happen. Attended Hudhcon East in 2022, and plan to attend Hushcon West again in 2022.
 
--   [Security BSides](http://www.securitybsides.com/) - [BSides Las Vegas](https://www.bsideslv.org/) 2019: As a BSides organizer I attended BSides Las Vegas in 2019 which is a fantastic Security BSides but also there’s a meetup within this conference where BSides organizers from all over share knowledge.
+-   [Security BSides](http://www.securitybsides.com/) - [BSides Las Vegas](https://www.bsideslv.org/): As a BSides organizer I attended BSides Las Vegas in 2019 which is a fantastic Security BSides but also there’s a meetup within this conference where BSides organizers from all over share knowledge. I plan to attend BSLV 2022
 
 -   [Security BSides](http://www.securitybsides.com/) - BSides Boise 2019: I had the pleasure of visiting BSides Boise in 2019, a conference in Idaho that blends several regions of Idaho into one conference. This is now called [BSides Idaho](https://www.bsidesidaho.org/).
 
 -   [Shmoocon](https://www.shmoocon.org/): Attendee in 2022, an exclusive security conference located in Washington, D.C.
+
+-   [Splunk .conf](https://conf.splunk.com/) 2022: Attendeed as a booth attendee for GreyNoise, Intelligence. You’ll probably see me attending booths at Splunk .conf in the future!
 
 -   [Eyebeam](https://www.eyebeam.org/events/refiguring-the-future-conference/): Attended in 2021, a conference that combines tech folks, artists, scholars and more in an attempt to refigure the future into a better world.
 
