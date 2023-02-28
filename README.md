@@ -19,9 +19,11 @@ I also want to highlight people/projects/conferences/etc. that I am connected wi
 Current Employment / Main Projects
 ==================================
 
--   [GreyNoise, Intelligence](https://www.greynoise.io/): I am one of the friendly Sales Engineers enabling sales to happen from a engineering perspective including in-depth demos, proof of value (POV) engagements, and creating content that documents and reflects on all the integrations and great things you can do with GreyNoise. We can chat whenever [here](https://www.greynoise.io/contact-greynoise-sales), but the GreyNoise Slack and community events are fantastic ways to get introduced, or going to <http://viz.greynoise.io/> to directly take a look.
+-   [GreyNoise, Intelligence](https://www.greynoise.io/): I am one of the friendly Sales Engineers enabling sales to happen from a engineering perspective including in-depth demos, proof of value (POV) engagements, and creating content that documents and reflects on all the integrations and great things you can do with GreyNoise. I’m also a frequent contributor to marketing content, educational content, product documentation, and participate in/around our conference and event coordination. We can chat whenever [here](https://www.greynoise.io/contact-greynoise-sales), but the GreyNoise Slack and community events are fantastic ways to get introduced, or going to <http://viz.greynoise.io/> to directly take a look.
 
 -   [LaBac Collective](https://labac.dev/) / [hatemail.io](https://hatemail.substack.com/): Editorial staff and key organizer. Working in an international collective to develop and support projects that advance values of online consent, privacy, equity and liberty. Performing security assessments for at-risk and targeted people (https://cyberabuse.nyc/), creating, curating and supporting community works that progress personal security confidence, and monitoring pervasive threats online and investigating harassment campaigns. Supporting a diverse community in finding and vetting job opportunities, working with candidates to bolster their resumes and CVs, managing relationships with hiring employers to introduce talent, and developing a embedded job hunting platform. Writing, research, and editing support for unique editorials and news on threat intel, cybersecurity, hacking, privacy, tech ethics, tech-based harassment, politics & other relevant topics for hatemail.io.
+
+-   [HushCon](https://hushcon.com/): I started attending HushCon in 2019 at HushCon West in Seattle, WA. I’ve been back to HushCon West every year since. And now I am helping organize the conference as a sponsorship coordinator! HushCon is a premier security conference with hush rules on all talks that happen. I also attended HushCon East located in NYC in 2022 and plan to attend again this year. Please [reach out](https://hushcon.com/sponsors.php) if you’d like to talk about sponsorship.
 
 -   [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested. I also design and make stickers & send them out (sometimes for charity, even)! I have the capacity to do small press runs of stickers, and want to do more.
 
@@ -30,9 +32,9 @@ Current Employment / Main Projects
 Publications / Public Work
 ==========================
 
--   [Atredis Partners](https://www.atredis.com/) - August 6th, 2020: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/): [Attacking Kubernetes: A Guide for Administrators and Penetration Testers](https://github.com/kubernetes/community/blob/a24e8c3/wg-security-audit/findings/AtredisPartners_Attacking_Kubernetes-v1.0.pdf). You can read more about this open-source security audit on the [CNCF official blog](https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/). As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing of the Atredis Partners white paper. Additionally, a [CVE](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures) came out of this engagement credited to Charles Holmes at Atredis Partners, [CVE-2019-11246](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11246).
+-   [GreyNoise, Intelligence](https://www.greynoise.io/) - February 2, 2023: [Introducing IP Geo Destination](https://www.greynoise.io/blog/introducing-ip-geo-destination). Editing support for Nick Roy.
 
--   [Atredis Partners](https://www.atredis.com/) - October 17th, 2020: [Open Source Technology Improvement Fund (OSTIF)](https://ostif.org/): [Linux kernel Security Vulnerability Reporting and Remediation Practices Review](https://ostif.org/wp-content/uploads/2021/01/2020-Atredis-Partners-OSTIF-Linux-Kernel-Vulnerability-Reporting-and-Remediation-Practices-Review-Report.pdf). Sponsored by [The Linux Foundation](https://www.linuxfoundation.org/) via OSTIF, Atredis reviewed the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel)’s practices and policies around security vulnerability reporting, processing, and disclosure. As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing and review of the resulting report. OSTIF released [a post via Reddit](https://www.reddit.com/r/opensource/comments/ky3p6g/a_review_of_the_linux_kernels_vulnerability/) on this engagement, as well as a [written announcement on their official site](https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/).
+-   [GreyNoise, Intelligence](https://www.greynoise.io/) - January, 2023: [GreyNoise Use Case: Contextualize and Automate Threat Hunting](https://www.greynoise.io/solutions/contextualized-threat-hunting). Writing and editing support for the marketing content.
 
 -   [Atredis Partners](https://www.atredis.com/) - March 29, 2022: [Veni, MIDI, Vici — Conquering CVE-2022-22657 and CVE-2022-22664](https://www.atredis.com/blog/2022/03/29/veni-midi-vici-conquering-cve-2022-22657-and-cve-2022-22664). Technical editing and blog writing support for Brandon Perry.
 
@@ -78,6 +80,10 @@ Publications / Public Work
 
 -   [Atredis Partners](https://www.atredis.com/) - November 17th, 2020: [A Watch, a Virtual Machine, and Broken Abstractions: Garmin Forerunner 235](https://www.atredis.com/blog/2020/11/4/garmin-forerunner-235-dion-blazakis). Technical editing and blog writing support for Dion Blazakis with additional technical peer review from Zach Lanier.
 
+-   [Atredis Partners](https://www.atredis.com/) - October 17th, 2020: [Open Source Technology Improvement Fund (OSTIF)](https://ostif.org/): [Linux kernel Security Vulnerability Reporting and Remediation Practices Review](https://ostif.org/wp-content/uploads/2021/01/2020-Atredis-Partners-OSTIF-Linux-Kernel-Vulnerability-Reporting-and-Remediation-Practices-Review-Report.pdf). Sponsored by [The Linux Foundation](https://www.linuxfoundation.org/) via OSTIF, Atredis reviewed the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel)’s practices and policies around security vulnerability reporting, processing, and disclosure. As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing and review of the resulting report. OSTIF released [a post via Reddit](https://www.reddit.com/r/opensource/comments/ky3p6g/a_review_of_the_linux_kernels_vulnerability/) on this engagement, as well as a [written announcement on their official site](https://ostif.org/a-review-of-the-linux-kernels-vulnerability-reporting-and-remediation/).
+
+-   [Atredis Partners](https://www.atredis.com/) - August 6th, 2020: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/): [Attacking Kubernetes: A Guide for Administrators and Penetration Testers](https://github.com/kubernetes/community/blob/a24e8c3/wg-security-audit/findings/AtredisPartners_Attacking_Kubernetes-v1.0.pdf). You can read more about this open-source security audit on the [CNCF official blog](https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/). As on-staff technical editor / writer at Atredis, my contribution to this project was in technical editing of the Atredis Partners white paper. Additionally, a [CVE](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures) came out of this engagement credited to Charles Holmes at Atredis Partners, [CVE-2019-11246](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11246).
+
 -   [secjuice](https://www.secjuice.com/) - September 21, 2018: [DEF CON Groups: What Works in 2018?](https://www.secjuice.com/defcon-groups-what-works-what-doesnt/) Editorial writing, research.
 
 -   [AfterAll Studio](http://afterallstudio.com/) - January 30th, 2013: [Move - Tunde Baiyewu](https://www.youtube.com/watch?v=E8pCEescO_g) music video. Production assistance.
@@ -91,6 +97,8 @@ Education Information / Courses
 
 -   Applied Physical Attacks on Embedded Systems, Introductory Version (at Portland OWASP Training Day 2018) by [Joe FitzPatrick](https://joefitz.com/Training.html)
 
+-   [Andy Whyte’s MEDDPICC Masterclass]: Completed in 2022.
+
 -   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Introduction (LFC202) - Completed Dec 2021.
 
 -   Japanese Conversation: Level 1, (at Portland Community College) by Tsukumo Barrett. CRN: 12499, Winter 2020
@@ -99,21 +107,11 @@ Education Information / Courses
 
 -   [OWASP Amass](https://github.com/OWASP/Amass): Discovering Your Exposure on the Internet (at Portland OWASP Training Day 2019) by [Jeff Foley](https://twitter.com/jeff_foley).
 
-Additionally I am currently enrolled in:
+Additionally I am currently undertaking:
 
--   [Andy Whyte’s MEDDPICC Masterclass](https://learn.meddicc.com/courses/learn-meddpicc)
+-   Cribl University courses
 
--   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Business Strategy (LFC203)
-
--   [The Linux Foundation](https://www.linuxfoundation.org/) - Effective Open Source Program Management (LFC204)
-
--   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Development Practices (LFC205)
-
--   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Compliance Programs (LFC206)
-
--   [The Linux Foundation](https://www.linuxfoundation.org/) - Collaborating Effectively with Open Source Projects (LFC207)
-
--   [The Linux Foundation](https://www.linuxfoundation.org/) - Creating Open Source Projects (LFC208)
+-   Anything and everything on the [TryHackMe](https://tryhackme.com/) platform
 
 Past Employment / Internships / Works / Projects
 ================================================
@@ -146,6 +144,8 @@ Competition Participation
 Current Organizations
 =====================
 
+-   GreyNoise Queer ERG: GayNoise: Helped in founding of the queer ERG at GreyNoise, Intelligence. We are just getting things started but have both fun and functional things up our sleeves to support the unique needs of folks who identify under the wide umbrella of queerness at GreyNoise.
+
 -   [Scarecrow Video](https://www.scarecrow.com/index.html): Supporting and being a member of the Scarecrow Video, an independently owned non-profit video sales and rental store in Seattle, WA. It has over 132,000 titles.
 
 -   [Open Web Application Security Project (OWASP) Portland Chapter](https://owasp.org/www-chapter-portland/) & [Seattle Chapter](https://owasp.org/www-chapter-seattle/): I am a lifetime member of the [OWASP organization](https://owasp.org/) and am connected to the Portland chapter. Soon, I want to be involved in the Seattle chapter.
@@ -161,7 +161,9 @@ Past Organizations
 
 -   [Portland Area Scientific and Cultural Advancement League (PASCAL)](https://www.pascalpdx.org/): A now defunct Portland hackerspace where I had deep involvement in event organization, hosting, being a member, helping out with the website, showing up to board meetings and more.
 
--   [SeaSec](https://www.meetup.com/SeaSec/) / [SeaSec East](https://www.meetup.com/SEASec-East/): I attended SeaSec/SeaSec, one of Seattle’s local area security meetups. Currently on hold going until in-person things start happening again.
+-   [SeaSec](https://www.meetup.com/SeaSec/) / [SeaSec East](https://www.meetup.com/SEASec-East/): I attended SeaSec/SeaSec, one of Seattle’s local area security meetups.
+
+-   [Rainsec](https://www.meetup.com/rainsec/): I occasionally still attend the Portland [CitySec](https://www.reddit.com/r/netsec/wiki/meetups/citysec#:~:text=CitySec%20is%20an%20unaffiliated%20collection,There's%20no%20professional%20society) meetup called Rainsec but I don’t live in Portland anymore :(
 
 -   [CTRL-H - PDX Makerspace](https://pdxhackerspace.org/): I am a former patron of the Portland [hackerspace](https://en.wikipedia.org/wiki/Hackerspace) where I participated in and attended regular meetups there such as PDX Exploit Workshop (a security meetup), [Dork Bot](https://dorkbotpdx.org/) (a makerspace focused meetup), Open Hack Nights and Open Houses (general meetups). You can sometimes see me attending stuff from abroad in Seattle, :) I keep in touch with the Portland community.
 
@@ -182,7 +184,7 @@ Events
 
 -   [Security BSides](http://www.securitybsides.com/) - [BSides PDX](https://bsidespdx.org/): Previously organizer who wore many hats in this organization, 2018-2021. Lead sponsorship to a level of growth of $100,000+ in sponsorship contributions, built countless relationships new and old with vendors. Sat on the board of directors from 2019-2021, ran for election and ran for chairman seat. There are few parts of this conference that I didn’t have my hands in.
 
--   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): In 2021 I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I served the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participated in or sat in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference. For 2022, I am taking a break from organizing as I spin up on my new job at [GreyNoise, Intelligence](https://www.greynoise.io/).
+-   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): In 2021 I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I served the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participated in or sat in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference.
 
 -   [HackBoat](https://hackboat.org/): Conference organizer including help found the initial conference, social media, speaker organization and assistance. Event on hold due to COVID-19, but we will return as soon as it is safe.
 
@@ -195,8 +197,6 @@ Events
 -   [The Diana Initiative (TDI)](https://www.dianainitiative.org/): Volunteer as a community manager and InfoBooth volunteer for the 2020 TDI conference including learning how to spot and report abuse, troubleshoot the [Hopin](https://hopin.com/) platform, and more.
 
 -   [ToorCon](https://toorcon.net/) / [ToorCamp](https://toorcamp.toorcon.net/): Attended Toorcon in 2021. This conference is fantastic at making opportunities for genuine connection to happen and brings fantastic speakers yearly to San Diego. One day I will make it out to ToorCamp.
-
--   [Hushcon](https://hushcon.com/): Attended Hushcon West in 2019, and from here on out. This is a premier security conference with hush rules on all talks that happen. Attended Hudhcon East in 2022, and plan to attend Hushcon West again in 2022.
 
 -   [Security BSides](http://www.securitybsides.com/) - [BSides Las Vegas](https://www.bsideslv.org/): As a BSides organizer I attended BSides Las Vegas in 2019 which is a fantastic Security BSides but also there’s a meetup within this conference where BSides organizers from all over share knowledge.
 
