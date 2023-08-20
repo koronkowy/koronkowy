@@ -3,7 +3,7 @@
 About Me
 ========
 
-[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Fort Worth (DFW). Current owner of two smol cats.
+[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Fort Worth (DFW). I split my time between Houston, TX and Seattle, WA. Current owner of two smol cats.
 
 About this Page
 ===============
@@ -27,10 +27,18 @@ Current Employment / Main Projects
 
 -   [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested. I also design and make stickers & send them out (sometimes for charity, even)! I have the capacity to do small press runs of stickers, and want to do more.
 
--   Sticker Cabal: This is a loose organization of folks found via Twitter who have large collections or make a prolific amount of stickers in the infosec/hacking world. We have mailings where members receive big parcels of stickers from other members or found at conferences, and team up with [attrition.org](https://attrition.org/) to do auctions for charities. Some of the work this group does includes [Diecut Digest](https://straithe.com/diecutdigest/) and the work that [Straithe](https://straithe.com/about/) does there.
+-   [hackroost](koronkowy.github.io/hackroost/): ([gh repo](https://github.com/koronkowy/hackroost)) Tiny link list project that was a continuation of an old pinned tweet I had where I collected a list of places cybersecurity talks are uploaded on YouTube.
 
 Publications / Public Work
 ==========================
+
+-   [GreyNoise, Intelligence](https://www.greynoise.io/) - June 13, 2023: [Splunk and GreyNoise Integration: Discovering Hidden Insights through Feeds and Dashboards](https://www.greynoise.io/blog/splunk-and-greynoise-integration-discovering-hidden-insights-through-feeds-and-dashboards). Editing support for Nick Roy.
+
+-   [GreyNoise, Intelligence](https://www.greynoise.io/) - June 2023: [Reference Deployment Diagrams](https://docs.greynoise.io/docs/reference-deployments). Research and development of documentation with Nick Roy.
+
+-   [GreyNoise, Intelligence](https://www.greynoise.io/) - March 1, 2023: [Introducing IP Timeline](https://www.greynoise.io/blog/introducing-ip-timeline). Editing support for Brianna Cluck.
+
+-   [GreyNoise, Intelligence](https://www.greynoise.io/) - February 10, 2023: [Six Ways to Threat Hunt in GreyNoise](https://www.greynoise.io/blog/six-ways-to-threat-hunt-in-greynoise). Research support for Nick Roy.
 
 -   [GreyNoise, Intelligence](https://www.greynoise.io/) - February 2, 2023: [Introducing IP Geo Destination](https://www.greynoise.io/blog/introducing-ip-geo-destination). Editing support for Nick Roy.
 
@@ -97,7 +105,7 @@ Education Information / Courses
 
 -   Applied Physical Attacks on Embedded Systems, Introductory Version (at Portland OWASP Training Day 2018) by [Joe FitzPatrick](https://joefitz.com/Training.html)
 
--   [Andy Whyte’s MEDDPICC Masterclass]: Completed in 2022.
+-   Email Detection Engineering & Threat Hunting Workshop led by [Sublime Security](https://sublime.security/) founder/CEO Josh Kamdjou and Alfie Champion, Co-founder of [delivr.to](https://delivr.to/). Participated in this workshop ahead of BSides Las Vegas 2023 and DEFCON 31 to offer feedback and test the training labs.
 
 -   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Introduction (LFC202) - Completed Dec 2021.
 
@@ -109,8 +117,6 @@ Education Information / Courses
 
 Additionally I am currently undertaking:
 
--   Cribl University courses
-
 -   Anything and everything on the [TryHackMe](https://tryhackme.com/) platform
 
 Past Employment / Internships / Works / Projects
@@ -121,6 +127,8 @@ Past Employment / Internships / Works / Projects
 -   [secjuice](https://www.secjuice.com/): secjuice is a non-profit, independent and volunteer lead publication in the information security space where I previously wrote articles, collaborated with other writers and editorial staff, provided critique and peer review of other writers and more.
 
 -   [chanscan.com](http://chanscan.com/): Created by [Jake Creps](https://github.com/jakecreps), ChanScan was an open source knowledge base for language used by online subcultures helping researchers, journalists, open-source intelligence (OSINT) analysts, threat intelligence analysts, and other users with in-line term highlighting and accompanying wiki. I wrote a lot of wiki entries and helped in discussing feature planning and collaboration.
+
+-   Sticker Cabal: This was a loose organization of folks found via Twitter who had large collections or make a prolific amount of stickers in the infosec/hacking world. We had mailings where members receive big parcels of stickers from other members or found at conferences, and team up with [attrition.org](https://attrition.org/) to do auctions for charities. Some of the work this group does included [Diecut Digest](https://straithe.com/diecutdigest/) and the work that [Straithe](https://straithe.com/about/) does there.
 
 -   [JuiceDB](https://www.juicedb.com/): Previously I used to moderate and work on the world’s biggest e-juice / vaping database about products. Countless hours spent adding descriptions of products, cross referencing official sites for data integrity, identifying tags to merge, categorizing tags, and user experience (UX) testing of the mobile application pre-release for Apple devices.
 
@@ -144,7 +152,7 @@ Competition Participation
 Current Organizations
 =====================
 
--   GreyNoise Queer ERG: GayNoise: Helped in founding of the queer ERG at GreyNoise, Intelligence. We are just getting things started but have both fun and functional things up our sleeves to support the unique needs of folks who identify under the wide umbrella of queerness at GreyNoise.
+-   GreyNoise Queer ERG: GayNoise: Helped in founding of the queer employee resource group (ERG) at GreyNoise, Intelligence. We are just getting things started but have both fun and functional things up our sleeves to support the unique needs of folks who identify under the wide umbrella of queerness at GreyNoise.
 
 -   [Scarecrow Video](https://www.scarecrow.com/index.html): Supporting and being a member of the Scarecrow Video, an independently owned non-profit video sales and rental store in Seattle, WA. It has over 132,000 titles.
 
@@ -190,7 +198,7 @@ Events
 
 -   [HellaConf](https://www.youtube.com/playlist?list=PLb47HxNiZ8g8JN1zvoI2zwy-zdey3nBf9): Appsec conference held by the folks behind [HellaSecure](https://www.hella-secure.com/). I provided support during the virtual conference for information on speakers in chat as well as moderation for chat.
 
--   [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), [DC29](https://defcon.org/html/defcon-29/dc-29-speakers.html), [DC30](https://defcon.org/html/defcon-30/dc-30-index.html). Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). You can find me here helping host parties for Atredis Partners or getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29.
+-   [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), [DC29](https://defcon.org/html/defcon-29/dc-29-speakers.html), [DC30](https://defcon.org/html/defcon-30/dc-30-index.html), [DC31](https://defcon.org/html/defcon-31/dc-31-index.html). Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). You can find me here helping host parties for Atredis Partners or getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29.
 
 -   [AppSecUSA 2018](https://2018.appsecusa.org/): In San Jose, I was awarded the [OWASP Bay Area](https://owasp.org/www-chapter-bay-area/) Diversity Sponsorship to AppSecUSA 2018. This fantastic conference on Application Security is to this date one of the best conferences I have been privileged to attend.
 
@@ -198,7 +206,7 @@ Events
 
 -   [ToorCon](https://toorcon.net/) / [ToorCamp](https://toorcamp.toorcon.net/): Attended Toorcon in 2021. This conference is fantastic at making opportunities for genuine connection to happen and brings fantastic speakers yearly to San Diego. One day I will make it out to ToorCamp.
 
--   [Security BSides](http://www.securitybsides.com/) - [BSides Las Vegas](https://www.bsideslv.org/): As a BSides organizer I attended BSides Las Vegas in 2019 which is a fantastic Security BSides but also there’s a meetup within this conference where BSides organizers from all over share knowledge.
+-   [Security BSides](http://www.securitybsides.com/) - [BSides Las Vegas](https://www.bsideslv.org/): As a BSides organizer I attended BSides Las Vegas in 2019 and 2023 which is a fantastic Security BSides but also there’s a meetup within this conference where BSides organizers from all over share knowledge.
 
 -   [Security BSides](http://www.securitybsides.com/) - BSides Boise 2019: I had the pleasure of visiting BSides Boise in 2019, a conference in Idaho that blends several regions of Idaho into one conference. This is now called [BSides Idaho](https://www.bsidesidaho.org/).
 
@@ -206,7 +214,7 @@ Events
 
 -   [Splunk .conf](https://conf.splunk.com/) 2022: Attendeed as a booth attendee for GreyNoise, Intelligence.
 
--   [ftp://con](https://www.ftpcon.com/):2022: Attended the virtual antifascist hacker conference of ftp://con online.
+-   [ftp://con](https://www.ftpcon.com/):2022 and ftp://con:2023: Attended the virtual antifascist hacker conference of ftp://con online.
 
 -   [Eyebeam](https://www.eyebeam.org/events/refiguring-the-future-conference/): Attended in 2021, a conference that combines tech folks, artists, scholars and more in an attempt to refigure the future into a better world.
 
