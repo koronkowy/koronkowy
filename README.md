@@ -27,7 +27,7 @@ Current Employment / Main Projects
 
 -   [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested. I also design and make stickers & send them out (sometimes for charity, even)! I have the capacity to do small press runs of stickers, and want to do more.
 
--   [hackroost](koronkowy.github.io/hackroost/): ([gh repo](https://github.com/koronkowy/hackroost)) Tiny link list project that was a continuation of an old pinned tweet I had where I collected a list of places cybersecurity talks are uploaded on YouTube.
+-   [hackroost](http://hackroost.net/): ([gh repo](https://github.com/koronkowy/hackroost)) Tiny link list project that was a continuation of an old pinned tweet I had where I collected a list of places cybersecurity talks are uploaded on YouTube.
 
 Publications / Public Work
 ==========================
