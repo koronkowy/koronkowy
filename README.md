@@ -3,14 +3,19 @@
 About Me
 ========
 
-[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Fort Worth (DFW). I split my time between Houston, TX and Seattle, WA. Current owner of two smol cats.
+[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Fort Worth (DFW). I live in Seattle, WA. Current owner of two smol cats.
+
+I’m currently looking for work!
+===============================
+
+Recently I was laid off from my role at GreyNoise, Intelligence. I’m currently trying to find a new role somewhere that can utilize my various skills from all over. Please let me know if you are looking for someone who understand cyber for any of your GTM needs (from Sales / Solutions Engineering, Sales broadly, in marketing or community management, and more.)
 
 About this Page
 ===============
 
 I really wanted to highlight all the things I am connected with on my Twitter bio but I became involved with too many things!
 
-My lovely twitter acquaintance, [Ch33r10](https://github.com/ch33r10) shared their GitHub readme which includes public mentions of them and their work and I thought it was the perfect idea to house all this stuff.
+My lovely Twitter acquaintance, [Ch33r10](https://github.com/ch33r10) shared their GitHub readme which includes public mentions of them and their work and I thought it was the perfect idea to house all this stuff.
 
 This is going to be pretty comprehensive and serve organizationally for me as an archive point as well as somewhat of a CV or resume.
 
@@ -19,18 +24,18 @@ I also want to highlight people/projects/conferences/etc. that I am connected wi
 Current Employment / Main Projects
 ==================================
 
--   [GreyNoise, Intelligence](https://www.greynoise.io/): I am one of the friendly Sales Engineers enabling sales to happen from a engineering perspective including in-depth demos, proof of value (POV) engagements, and creating content that documents and reflects on all the integrations and great things you can do with GreyNoise. I’m also a frequent contributor to marketing content, educational content, product documentation, and participate in/around our conference and event coordination. We can chat whenever [here](https://www.greynoise.io/contact-greynoise-sales), but the GreyNoise Slack and community events are fantastic ways to get introduced, or going to <http://viz.greynoise.io/> to directly take a look.
-
 -   [LaBac Collective](https://labac.dev/) / [hatemail.io](https://hatemail.substack.com/): Editorial staff and key organizer. Working in an international collective to develop and support projects that advance values of online consent, privacy, equity and liberty. Performing security assessments for at-risk and targeted people (https://cyberabuse.nyc/), creating, curating and supporting community works that progress personal security confidence, and monitoring pervasive threats online and investigating harassment campaigns. Supporting a diverse community in finding and vetting job opportunities, working with candidates to bolster their resumes and CVs, managing relationships with hiring employers to introduce talent, and developing a embedded job hunting platform. Writing, research, and editing support for unique editorials and news on threat intel, cybersecurity, hacking, privacy, tech ethics, tech-based harassment, politics & other relevant topics for hatemail.io.
 
 -   [HushCon](https://hushcon.com/): I started attending HushCon in 2019 at HushCon West in Seattle, WA. I’ve been back to HushCon West every year since. And now I am helping organize the conference as a sponsorship coordinator! HushCon is a premier security conference with hush rules on all talks that happen. I also attended HushCon East located in NYC in 2022 and plan to attend again this year. Please [reach out](https://hushcon.com/sponsors.php) if you’d like to talk about sponsorship.
 
 -   [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested. I also design and make stickers & send them out (sometimes for charity, even)! I have the capacity to do small press runs of stickers, and want to do more.
 
--   [hackroost](http://hackroost.net/): ([gh repo](https://github.com/koronkowy/hackroost)) Tiny link list project that was a continuation of an old pinned tweet I had where I collected a list of places cybersecurity talks are uploaded on YouTube.
+-   [hackroost](koronkowy.github.io/hackroost/): ([gh repo](https://github.com/koronkowy/hackroost)) Tiny link list project that was a continuation of an old pinned tweet I had where I collected a list of places cybersecurity talks are uploaded on YouTube.
 
 Publications / Public Work
 ==========================
+
+-   [GreyNoise, Intelligence](https://www.greynoise.io/) - November 2, 2023: [Unveiling the Deceptive World: Honeypots vs Honeytokens](https://www.greynoise.io/blog/unveiling-the-deceptive-world-honeypots-vs-honeytokens). Writing by me. Editing support from Nick Roy.
 
 -   [GreyNoise, Intelligence](https://www.greynoise.io/) - June 13, 2023: [Splunk and GreyNoise Integration: Discovering Hidden Insights through Feeds and Dashboards](https://www.greynoise.io/blog/splunk-and-greynoise-integration-discovering-hidden-insights-through-feeds-and-dashboards). Editing support for Nick Roy.
 
@@ -107,6 +112,8 @@ Education Information / Courses
 
 -   Email Detection Engineering & Threat Hunting Workshop led by [Sublime Security](https://sublime.security/) founder/CEO Josh Kamdjou and Alfie Champion, Co-founder of [delivr.to](https://delivr.to/). Participated in this workshop ahead of BSides Las Vegas 2023 and DEFCON 31 to offer feedback and test the training labs.
 
+-   MEDDPICC sales methodology certified - 2022
+
 -   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Introduction (LFC202) - Completed Dec 2021.
 
 -   Japanese Conversation: Level 1, (at Portland Community College) by Tsukumo Barrett. CRN: 12499, Winter 2020
@@ -121,6 +128,8 @@ Additionally I am currently undertaking:
 
 Past Employment / Internships / Works / Projects
 ================================================
+
+-   [GreyNoise, Intelligence](https://www.greynoise.io/): I was one of the friendly Sales Engineers enabling sales to happen from a engineering perspective including in-depth demos, proof of value (POV) engagements, and creating content that documents and reflects on all the integrations and great things you can do with GreyNoise. I’m was a frequent contributor to marketing content, educational content, product documentation, and participated in/around conference and event coordination.
 
 -   [Atredis Partners](https://www.atredis.com/): At Atredis, an attack research and penetration testing consultancy firm, my day job was being the lovely on-staff tech editor / tech writer. Due to the nature of my work, much of it fell under heavy non-disclosure. But there’s some fun public work that’s listed in the publications section here. My job also involved working as part of the Client Operations team in part of the sales engineering / scoping side of things, social media management including working on blog posts, being passionate about our vulnerability disclosure process, and wearing some other hats.
 
@@ -152,14 +161,14 @@ Competition Participation
 Current Organizations
 =====================
 
--   GreyNoise Queer ERG: GayNoise: Helped in founding of the queer employee resource group (ERG) at GreyNoise, Intelligence. We are just getting things started but have both fun and functional things up our sleeves to support the unique needs of folks who identify under the wide umbrella of queerness at GreyNoise.
-
 -   [Scarecrow Video](https://www.scarecrow.com/index.html): Supporting and being a member of the Scarecrow Video, an independently owned non-profit video sales and rental store in Seattle, WA. It has over 132,000 titles.
 
 -   [Open Web Application Security Project (OWASP) Portland Chapter](https://owasp.org/www-chapter-portland/) & [Seattle Chapter](https://owasp.org/www-chapter-seattle/): I am a lifetime member of the [OWASP organization](https://owasp.org/) and am connected to the Portland chapter. Soon, I want to be involved in the Seattle chapter.
 
 Past Organizations
 ==================
+
+-   GreyNoise Queer ERG: GayNoise: Helped in founding of the queer employee resource group (ERG) at GreyNoise, Intelligence.
 
 -   [Women’s Society of Cyberjutsu](https://womenscyberjutsu.org/): Previous membership at this org, a 501(c)3 International nonprofit community, focused on empowering women to succeed in the cybersecurity industry.
 
