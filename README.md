@@ -1,9 +1,8 @@
 ![Lacey Kasten](https://i.imgur.com/nwkTVJZ.jpg)
-
 About Me
 ========
 
-[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Fort Worth (DFW). I live in Seattle, WA. Current owner of two smol cats.
+[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Fort Worth (DFW). I live in Seattle, WA & Houston, TX. Current owner of two smol cats. I study Español and Japanese.
 
 I’m currently looking for work!
 ===============================
@@ -24,13 +23,15 @@ I also want to highlight people/projects/conferences/etc. that I am connected wi
 Current Employment / Main Projects
 ==================================
 
--   [LaBac Collective](https://labac.dev/) / [hatemail.io](https://hatemail.substack.com/): Editorial staff and key organizer. Working in an international collective to develop and support projects that advance values of online consent, privacy, equity and liberty. Performing security assessments for at-risk and targeted people (https://cyberabuse.nyc/), creating, curating and supporting community works that progress personal security confidence, and monitoring pervasive threats online and investigating harassment campaigns. Supporting a diverse community in finding and vetting job opportunities, working with candidates to bolster their resumes and CVs, managing relationships with hiring employers to introduce talent, and developing a embedded job hunting platform. Writing, research, and editing support for unique editorials and news on threat intel, cybersecurity, hacking, privacy, tech ethics, tech-based harassment, politics & other relevant topics for hatemail.io.
+-   [cabal](https://cabal.cx/) / [hatemail.io](https://hatemail.substack.com/): Editorial staff and key organizer. Working in an international collective to develop and support projects that advance values of online consent, privacy, equity and liberty. Performing security assessments for at-risk and targeted people (https://cyberabuse.nyc/), creating, curating and supporting community works that progress personal security confidence, and monitoring pervasive threats online and investigating harassment campaigns. Supporting a diverse community in finding and vetting job opportunities, working with candidates to bolster their resumes and CVs, managing relationships with hiring employers to introduce talent, and developing a embedded job hunting platform. Writing, research, and editing support for unique editorials and news on threat intel, cybersecurity, hacking, privacy, tech ethics, tech-based harassment, politics & other relevant topics for hatemail.io.
 
 -   [HushCon](https://hushcon.com/): I started attending HushCon in 2019 at HushCon West in Seattle, WA. I’ve been back to HushCon West every year since. And now I am helping organize the conference as a sponsorship coordinator! HushCon is a premier security conference with hush rules on all talks that happen. I also attended HushCon East located in NYC in 2022 and plan to attend again this year. Please [reach out](https://hushcon.com/sponsors.php) if you’d like to talk about sponsorship.
 
+-   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): I’m back helping with SeaGL in 2024, assisting the main event coordinator directly in any areas that might make things easier for them / to fill in holes in the org. In 2021 I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I served the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participated in or sat in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference.
+
 -   [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested. I also design and make stickers & send them out (sometimes for charity, even)! I have the capacity to do small press runs of stickers, and want to do more.
 
--   [hackroost](koronkowy.github.io/hackroost/): ([gh repo](https://github.com/koronkowy/hackroost)) Tiny link list project that was a continuation of an old pinned tweet I had where I collected a list of places cybersecurity talks are uploaded on YouTube.
+-   [hackroost](https://hackroost.net/): ([gh repo](https://github.com/koronkowy/hackroost)) Tiny link list project that was a continuation of an old pinned tweet I had where I collected a list of places cybersecurity talks are uploaded on YouTube.
 
 Publications / Public Work
 ==========================
@@ -51,43 +52,43 @@ Publications / Public Work
 
 -   [Atredis Partners](https://www.atredis.com/) - March 29, 2022: [Veni, MIDI, Vici — Conquering CVE-2022-22657 and CVE-2022-22664](https://www.atredis.com/blog/2022/03/29/veni-midi-vici-conquering-cve-2022-22657-and-cve-2022-22664). Technical editing and blog writing support for Brandon Perry.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - January 17, 2022: [Here's How We Use DMCA to Fight Nonconsensual Pornography](https://hatemail.substack.com/p/heres-how-we-use-dmca-to-fight-nonconsensual). Editorial editing, editorial co-writing, news research headlines, job posting research, and writing support.
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - January 17, 2022: [Here's How We Use DMCA to Fight Nonconsensual Pornography](https://hatemail.substack.com/p/heres-how-we-use-dmca-to-fight-nonconsensual). Editorial editing, editorial co-writing, news research headlines, job posting research, and writing support.
 
 -   [Atredis Partners](https://www.atredis.com/) - January 6, 2022: [Unauthenticated Remote Code Execution Chain in SysAid ITIL -- CVE-2021-43971, CVE-2021-43972, CVE-2021-43973, CVE-2021-43974](https://www.atredis.com/blog/2022/1/5/unauthenticated-rce-chain-in-sysaid-itil). Technical editing and blog writing support for Brandon Perry.
 
 -   [Atredis Partners](https://www.atredis.com/) - October 29, 2021: [Exploring Unified Diagnostic Services with uds-zoo](https://www.atredis.com/blog/2021/10/26/uds-zoo). Technical editing and blog writing support for Chris Bellows and Tom Steele for the release of [uds-zoo](https://github.com/atredispartners/uds-zoo).
 
--   SeaGL - October, 2021: [Code of Conduct](https://seagl.org/code_of_conduct). Co-writing, policy development, documentation, review and publishing. See blog post about the Code of Conduct (CoC) launch [here](https://seagl.org/news/2021/10/19/coc-update.html).
+-   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/) - October, 2021: [Code of Conduct](https://seagl.org/code_of_conduct). Co-writing, policy development, documentation, review and publishing. See blog post about the Code of Conduct (CoC) launch [here](https://seagl.org/news/2021/10/19/coc-update.html).
 
 -   [Cloakwire](https://cloakwire.com/) - October 2021: [Mai Finance - Qi DAO Security Audit (public)](https://cloakwire.com/wp-content/uploads/sites/3/2021/10/Mai-Finance-Qi-Dao-Security-Audit-October-2021-v-1.3-PDF.pdf). Technical editing on an external penetration test and vulnerability assessment and smart contract audit.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - August 19th, 2021: [The Taliban Have Seized U.S. Military Biometric Data of Afghan Civilians: The U.S. Military Collected Biometric Data on Afghan Civilians. Now the Taliban have it.](https://hatemail.substack.com/p/the-taliban-have-seized-us-military) Editorial editing, editorial co-writing, news research headlines, and writing support.
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - August 19th, 2021: [The Taliban Have Seized U.S. Military Biometric Data of Afghan Civilians: The U.S. Military Collected Biometric Data on Afghan Civilians. Now the Taliban have it.](https://hatemail.substack.com/p/the-taliban-have-seized-us-military) Editorial editing, editorial co-writing, news research headlines, and writing support.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - June 11th, 2021: [Amazon’s Decentralization Plan: Amazon Highlights the Moral Ambiguity of Decentralization](https://hatemail.substack.com/p/amazons-decentralization-plan). Editorial editing, news research headlines, and writing support.
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - June 11th, 2021: [Amazon’s Decentralization Plan: Amazon Highlights the Moral Ambiguity of Decentralization](https://hatemail.substack.com/p/amazons-decentralization-plan). Editorial editing, news research headlines, and writing support.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - May 27th, 2021: [Cops Aren’t Really Banned from NYC Pride, and That’s a Shame: Despite NYPD Ban, Organizers Say Private Security Firms Will Replace the NYPD at NYC Pride](https://hatemail.substack.com/p/cops-arent-really-banned-from-nyc). Editorial co-writing, news research headlines, and writing support.
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - May 27th, 2021: [Cops Aren’t Really Banned from NYC Pride, and That’s a Shame: Despite NYPD Ban, Organizers Say Private Security Firms Will Replace the NYPD at NYC Pride](https://hatemail.substack.com/p/cops-arent-really-banned-from-nyc). Editorial co-writing, news research headlines, and writing support.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - May 13th, 2021: [Welcome to Supply Chain Hell: Shortages Highlight Tech and Security’s Critical Role in the Global Market](https://hatemail.substack.com/p/welcome-to-supply-chain-hell). Editorial co-writing, news research headlines, and writing support.
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - May 13th, 2021: [Welcome to Supply Chain Hell: Shortages Highlight Tech and Security’s Critical Role in the Global Market](https://hatemail.substack.com/p/welcome-to-supply-chain-hell). Editorial co-writing, news research headlines, and writing support.
 
 -   [Atredis Partners](https://www.atredis.com/) - May 6, 2021: [CVE-2021-32030](https://nvd.nist.gov/vuln/detail/CVE-2021-32030): [ASUS GT-AC2900 Authentication Bypass](https://www.atredis.com/blog/2021/4/30/asus-authentication-bypass). Technical editing and blog writing support for Chris Bellows.
 
 -   [Atredis Partners](https://www.atredis.com/) - April 26, 2021: [NANDcromancy: Live Swapping NAND Flash](https://www.atredis.com/blog/2021/4/23/live-nand-swap). Technical editing and blog writing support for Chris Bellows.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - April 29th, 2021: [When You Weren’t Looking, the Surveillance State Grew: Who Needs Science Fiction When There’s Surveillance Policing? / Hacking Legend and “All Around Nice Guy,” Dan Kaminsky Passes Away at 42](https://hatemail.substack.com/p/when-you-werent-looking-the-surveillance). Editorial editing, editorial co-writing, news research headlines, and writing support.
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - April 29th, 2021: [When You Weren’t Looking, the Surveillance State Grew: Who Needs Science Fiction When There’s Surveillance Policing? / Hacking Legend and “All Around Nice Guy,” Dan Kaminsky Passes Away at 42](https://hatemail.substack.com/p/when-you-werent-looking-the-surveillance). Editorial editing, editorial co-writing, news research headlines, and writing support.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - April 15th, 2021: [Qoup d’état: What QAnon’s Reddit Migration Tells Us About Misinformation](https://hatemail.substack.com/p/qoup-detat-what-qanons-reddit-migration): Guest editorial by members of [Tech Against Fascism](https://againstfascism.tech/). Editorial editing, news research headlines, and writing support.
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - April 15th, 2021: [Qoup d’état: What QAnon’s Reddit Migration Tells Us About Misinformation](https://hatemail.substack.com/p/qoup-detat-what-qanons-reddit-migration): Guest editorial by members of [Tech Against Fascism](https://againstfascism.tech/). Editorial editing, news research headlines, and writing support.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - April 1st, 2021: [The Covid-19 Vaccine Complicates the Bot Debate: Bots are Testing Ethical Boundaries Amid Vaccine Distribution](https://hatemail.substack.com/p/the-covid-19-vaccine-complicates). Editorial co-writing, editorial research, editorial editing, news research headlines, and writing support.
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - April 1st, 2021: [The Covid-19 Vaccine Complicates the Bot Debate: Bots are Testing Ethical Boundaries Amid Vaccine Distribution](https://hatemail.substack.com/p/the-covid-19-vaccine-complicates). Editorial co-writing, editorial research, editorial editing, news research headlines, and writing support.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - March 4th, 2021: [Protect the Digital Peepshow: What’s the Best Way to Consume Adult Content?](https://hatemail.substack.com/p/protect-the-digital-peepshow) Editorial editing, news research headlines, and writing support.
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - March 4th, 2021: [Protect the Digital Peepshow: What’s the Best Way to Consume Adult Content?](https://hatemail.substack.com/p/protect-the-digital-peepshow) Editorial editing, news research headlines, and writing support.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - February 18, 2021: [Is the GOP Responding to the Texas Crisis with Disinformation?](https://hatemail.substack.com/p/is-the-gop-responding-to-the-texas) Editorial co-writing, editorial research, editorial editing, news research headlines, and writing support.
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - February 18, 2021: [Is the GOP Responding to the Texas Crisis with Disinformation?](https://hatemail.substack.com/p/is-the-gop-responding-to-the-texas) Editorial co-writing, editorial research, editorial editing, news research headlines, and writing support.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - February 11th, 2021: [Our Hacker Collective Has an OnlyFans Now ;): We Launched an OnlyFans Page to Help Combat Online Abuse](https://hatemail.substack.com/p/our-hacker-collective-has-an-onlyfans). Editorial editing, news research headlines, and writing support.
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - February 11th, 2021: [Our Hacker Collective Has an OnlyFans Now ;): We Launched an OnlyFans Page to Help Combat Online Abuse](https://hatemail.substack.com/p/our-hacker-collective-has-an-onlyfans). Editorial editing, news research headlines, and writing support.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - February 4th, 2021: [Do Telegram Nazis Dream of Electric Reichs? The Online Trends of Nazi Telegram](https://hatemail.substack.com/p/do-telegram-nazis-dream-of-electric): Guest editorial by members of [Tech Against Fascism](https://againstfascism.tec). Editorial editing, news research headlines, and writing support.
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - February 4th, 2021: [Do Telegram Nazis Dream of Electric Reichs? The Online Trends of Nazi Telegram](https://hatemail.substack.com/p/do-telegram-nazis-dream-of-electric): Guest editorial by members of [Tech Against Fascism](https://againstfascism.tec). Editorial editing, news research headlines, and writing support.
 
--   [LaBac](https://labac.dev/) / [Hatemail.io](http://hatemail.io/) - January 28, 2021: [The Online Universe of Hate Speech is Still Alive and Well: Hate Speech Thrives Despite Recent Platform Crackdowns](https://hatemail.substack.com/p/the-online-universe-of-hate-speech). Editorial editing, news research headlines, and writing support.
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - January 28, 2021: [The Online Universe of Hate Speech is Still Alive and Well: Hate Speech Thrives Despite Recent Platform Crackdowns](https://hatemail.substack.com/p/the-online-universe-of-hate-speech). Editorial editing, news research headlines, and writing support.
 
 -   [Atredis Partners](https://www.atredis.com/) - December 7th, 2020: [Authenticated RCE in Pydio (Forever-Day)](https://www.atredis.com/blog/2020/11/12/authenticated-rce-in-pydio-forever-day) — [CVE-2020-28913](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-28913). Technical editing and blog writing support for Brandon Perry with additional technical peer review from Dion Blazakis.
 
@@ -110,9 +111,25 @@ Education Information / Courses
 
 -   Applied Physical Attacks on Embedded Systems, Introductory Version (at Portland OWASP Training Day 2018) by [Joe FitzPatrick](https://joefitz.com/Training.html)
 
--   Email Detection Engineering & Threat Hunting Workshop led by [Sublime Security](https://sublime.security/) founder/CEO Josh Kamdjou and Alfie Champion, Co-founder of [delivr.to](https://delivr.to/). Participated in this workshop ahead of BSides Las Vegas 2023 and DEFCON 31 to offer feedback and test the training labs.
-
 -   MEDDPICC sales methodology certified - 2022
+
+-   Microsoft Learning Modules - 2023-2024: 
+
+    -   Configure SIEM security operations using Microsoft Sentinel: *Configure security information and event management (SIEM) security operations using Microsoft Sentinel.*
+
+    -   Automation in Microsoft Sentinel.
+
+    -   Threat detection with Microsoft Sentinel analytics.
+
+    -   Connect Windows hosts to Microsoft Sentinel.
+
+    -   Connect Microsoft services to Microsoft Sentinel.
+
+    -   Create and manage Microsoft Sentinel workspaces.
+
+    -   Introduction to Microsoft Sentinel: *Get familiar with Microsoft Sentinel, a cloud-native, security information and event management (SIEM) service.*
+
+-   Email Detection Engineering & Threat Hunting Workshop led by [Sublime Security](https://sublime.security/) founder/CEO Josh Kamdjou and Alfie Champion, Co-founder of [delivr.to](https://delivr.to/). Participated in this workshop ahead of BSides Las Vegas 2023 and DEFCON 31 to offer feedback and test the training labs.
 
 -   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Introduction (LFC202) - Completed Dec 2021.
 
@@ -121,10 +138,6 @@ Education Information / Courses
 -   Japanese Conversation: Level 2, (at Portland Community College) by Miyoko Fuse. Spring, 2021
 
 -   [OWASP Amass](https://github.com/OWASP/Amass): Discovering Your Exposure on the Internet (at Portland OWASP Training Day 2019) by [Jeff Foley](https://twitter.com/jeff_foley).
-
-Additionally I am currently undertaking:
-
--   Anything and everything on the [TryHackMe](https://tryhackme.com/) platform
 
 Past Employment / Internships / Works / Projects
 ================================================
@@ -201,8 +214,6 @@ Events
 
 -   [Security BSides](http://www.securitybsides.com/) - [BSides PDX](https://bsidespdx.org/): Previously organizer who wore many hats in this organization, 2018-2021. Lead sponsorship to a level of growth of $100,000+ in sponsorship contributions, built countless relationships new and old with vendors. Sat on the board of directors from 2019-2021, ran for election and ran for chairman seat. There are few parts of this conference that I didn’t have my hands in.
 
--   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): In 2021 I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I served the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participated in or sat in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference.
-
 -   [HackBoat](https://hackboat.org/): Conference organizer including help found the initial conference, social media, speaker organization and assistance. Event on hold due to COVID-19, but we will return as soon as it is safe.
 
 -   [HellaConf](https://www.youtube.com/playlist?list=PLb47HxNiZ8g8JN1zvoI2zwy-zdey3nBf9): Appsec conference held by the folks behind [HellaSecure](https://www.hella-secure.com/). I provided support during the virtual conference for information on speakers in chat as well as moderation for chat.
@@ -219,7 +230,7 @@ Events
 
 -   [Security BSides](http://www.securitybsides.com/) - BSides Boise 2019: I had the pleasure of visiting BSides Boise in 2019, a conference in Idaho that blends several regions of Idaho into one conference. This is now called [BSides Idaho](https://www.bsidesidaho.org/).
 
--   [Shmoocon](https://www.shmoocon.org/): Attendee in 2022, an exclusive security conference located in Washington, D.C.
+-   [Shmoocon](https://www.shmoocon.org/): Attendee in 2022, 2023, 2024 (planned), an exclusive security conference located in Washington, D.C.
 
 -   [Splunk .conf](https://conf.splunk.com/) 2022: Attendeed as a booth attendee for GreyNoise, Intelligence.
 
