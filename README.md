@@ -25,7 +25,7 @@ Current Employment / Main Projects
 
 -   [cabal](https://cabal.cx/) / [hatemail.io](https://hatemail.substack.com/): Editorial staff and key organizer. Working in an international collective to develop and support projects that advance values of online consent, privacy, equity and liberty. Performing security assessments for at-risk and targeted people (https://cyberabuse.nyc/), creating, curating and supporting community works that progress personal security confidence, and monitoring pervasive threats online and investigating harassment campaigns. Supporting a diverse community in finding and vetting job opportunities, working with candidates to bolster their resumes and CVs, managing relationships with hiring employers to introduce talent, and developing a embedded job hunting platform. Writing, research, and editing support for unique editorials and news on threat intel, cybersecurity, hacking, privacy, tech ethics, tech-based harassment, politics & other relevant topics for hatemail.io.
 
--   [HushCon](https://hushcon.com/): I started attending HushCon in 2019 at HushCon West in Seattle, WA. I’ve been back to HushCon West every year since. And now I am helping organize the conference as a sponsorship coordinator! HushCon is a premier security conference with hush rules on all talks that happen. I also attended HushCon East located in NYC in 2022 and plan to attend again this year. Please [reach out](https://hushcon.com/sponsors.php) if you’d like to talk about sponsorship.
+-   [HushCon](https://hushcon.com/): I started attending HushCon in 2019 at HushCon West in Seattle, WA. I’ve been back to HushCon West every year since. And now I am helping organize the conference as a sponsorship coordinator! HushCon is a premier security conference with hush rules on all talks that happen. I also attended HushCon East located in NYC in 2022 and 2023. Please [reach out](https://hushcon.com/sponsors.php) if you’d like to talk about sponsorship.
 
 -   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): I’m back helping with SeaGL in 2024, assisting the main event coordinator directly in any areas that might make things easier for them / to fill in holes in the org. In 2021 I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I served the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participated in or sat in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference.
 
@@ -195,13 +195,13 @@ Past Organizations
 
 -   [Women’s Society of Cyberjutsu](https://womenscyberjutsu.org/): Previous membership at this org, a 501(c)3 International nonprofit community, focused on empowering women to succeed in the cybersecurity industry.
 
--   [DEF CON Groups](https://twitter.com/defcongroups): DC Group [#dc541](https://forum.defcon.org/node/231682), Eugene, OR: My home [DEF CON](https://defcon.org/) group where we met on the second Saturday of the month. I am still involved online with this group.
+-   [DEF CON Groups](https://twitter.com/defcongroups): DC Group [#dc541](https://forum.defcon.org/node/231682), Eugene, OR: My home [DEF CON](https://defcon.org/) group where we met on the second Saturday of the month. I am still involved online with this group but less so now that I have moved.
 
 -   [PDX2600](https://pdx2600.org/): Formerly attended the Portland chapter of [2600](https://www.meetup.com/topics/2600/), a historic hacking / phreaking meetup.
 
 -   [Portland Area Scientific and Cultural Advancement League (PASCAL)](https://www.pascalpdx.org/): A now defunct Portland hackerspace where I had deep involvement in event organization, hosting, being a member, helping out with the website, showing up to board meetings and more.
 
--   [SeaSec](https://www.meetup.com/SeaSec/) / [SeaSec East](https://www.meetup.com/SEASec-East/): I attended SeaSec/SeaSec, one of Seattle’s local area security meetups.
+-   [SeaSec](https://www.meetup.com/SeaSec/) / [SeaSec East](https://www.meetup.com/SEASec-East/): I attended SeaSec/SeaSec East, one of Seattle’s local area security meetups.
 
 -   [Rainsec](https://www.meetup.com/rainsec/): I occasionally still attend the Portland [CitySec](https://www.reddit.com/r/netsec/wiki/meetups/citysec#:~:text=CitySec%20is%20an%20unaffiliated%20collection,There's%20no%20professional%20society) meetup called Rainsec but I don’t live in Portland anymore :(
 
@@ -224,23 +224,23 @@ Events
 
 -   [Security BSides](http://www.securitybsides.com/) - [BSides PDX](https://bsidespdx.org/): Previously organizer who wore many hats in this organization, 2018-2021. Lead sponsorship to a level of growth of $100,000+ in sponsorship contributions, built countless relationships new and old with vendors. Sat on the board of directors from 2019-2021, ran for election and ran for chairman seat. There are few parts of this conference that I didn’t have my hands in.
 
--   [HackBoat](https://hackboat.org/): Conference organizer including help found the initial conference, social media, speaker organization and assistance. Event on hold due to COVID-19, but we will return as soon as it is safe.
+-   [HackBoat](https://hackboat.org/): Conference organizer including help found the initial conference, social media, speaker organization and assistance. Event went on hold due to COVID-19, but it would be cool to bring it back.
 
 -   [HellaConf](https://www.youtube.com/playlist?list=PLb47HxNiZ8g8JN1zvoI2zwy-zdey3nBf9): Appsec conference held by the folks behind [HellaSecure](https://www.hella-secure.com/). I provided support during the virtual conference for information on speakers in chat as well as moderation for chat.
 
--   [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), [DC29](https://defcon.org/html/defcon-29/dc-29-speakers.html), [DC30](https://defcon.org/html/defcon-30/dc-30-index.html), [DC31](https://defcon.org/html/defcon-31/dc-31-index.html). Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). You can find me here helping host parties for Atredis Partners or getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29.
+-   [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), [DC29](https://defcon.org/html/defcon-29/dc-29-speakers.html), [DC30](https://defcon.org/html/defcon-30/dc-30-index.html), [DC31](https://defcon.org/html/defcon-31/dc-31-index.html). Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). I used to help host parties for Atredis Partners or GreyNoise  maybe you saw me getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29.
 
 -   [AppSecUSA 2018](https://2018.appsecusa.org/): In San Jose, I was awarded the [OWASP Bay Area](https://owasp.org/www-chapter-bay-area/) Diversity Sponsorship to AppSecUSA 2018. This fantastic conference on Application Security is to this date one of the best conferences I have been privileged to attend.
 
 -   [The Diana Initiative (TDI)](https://www.dianainitiative.org/): Volunteer as a community manager and InfoBooth volunteer for the 2020 TDI conference including learning how to spot and report abuse, troubleshoot the [Hopin](https://hopin.com/) platform, and more.
 
--   [ToorCon](https://toorcon.net/) / [ToorCamp](https://toorcamp.toorcon.net/): Attended Toorcon in 2021. This conference is fantastic at making opportunities for genuine connection to happen and brings fantastic speakers yearly to San Diego. One day I will make it out to ToorCamp.
+-   [ToorCon](https://toorcon.net/) / [ToorCamp](https://toorcamp.toorcon.net/): Attended Toorcon in 2021. This conference is fantastic at making opportunities for genuine connection to happen and brings fantastic speakers to San Diego. One day I will make it out to ToorCamp.
 
 -   [Security BSides](http://www.securitybsides.com/) - [BSides Las Vegas](https://www.bsideslv.org/): As a BSides organizer I attended BSides Las Vegas in 2019 and 2023 which is a fantastic Security BSides but also there’s a meetup within this conference where BSides organizers from all over share knowledge.
 
 -   [Security BSides](http://www.securitybsides.com/) - BSides Boise 2019: I had the pleasure of visiting BSides Boise in 2019, a conference in Idaho that blends several regions of Idaho into one conference. This is now called [BSides Idaho](https://www.bsidesidaho.org/).
 
--   [Shmoocon](https://www.shmoocon.org/): Attendee in 2022, 2023, 2024 (planned), an exclusive security conference located in Washington, D.C.
+-   [Shmoocon](https://www.shmoocon.org/): Attendee in 2022, 2023, 2024, an exclusive and premiere security conference located in Washington, D.C.
 
 -   [Splunk .conf](https://conf.splunk.com/) 2022: Attendeed as a booth attendee for GreyNoise, Intelligence.
 
