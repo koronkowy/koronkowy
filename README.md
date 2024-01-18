@@ -36,6 +36,8 @@ Current Employment / Main Projects
 Publications / Public Work
 ==========================
 
+-   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - January 8, 2024: [Hatemail News](https://hatemail.substack.com/p/hatemail-tech-newsletter-2024-01). News research for headlines and fact-checking / investigation.
+
 -   [GreyNoise, Intelligence](https://www.greynoise.io/) - November 2, 2023: [Unveiling the Deceptive World: Honeypots vs Honeytokens](https://www.greynoise.io/blog/unveiling-the-deceptive-world-honeypots-vs-honeytokens). Writing by me. Editing support from Nick Roy.
 
 -   [GreyNoise, Intelligence](https://www.greynoise.io/) - June 13, 2023: [Splunk and GreyNoise Integration: Discovering Hidden Insights through Feeds and Dashboards](https://www.greynoise.io/blog/splunk-and-greynoise-integration-discovering-hidden-insights-through-feeds-and-dashboards). Editing support for Nick Roy.
@@ -111,9 +113,9 @@ Education Information / Courses
 
 -   Applied Physical Attacks on Embedded Systems, Introductory Version (at Portland OWASP Training Day 2018) by [Joe FitzPatrick](https://joefitz.com/Training.html)
 
--   MEDDPICC sales methodology certified - 2022
+-   MEDDPICC sales methodology certified via Andy Whyte’s MEDDPICC training - 2022
 
--   Microsoft Learning Modules - 2023-2024: 
+-   Microsoft Learning Modules - 2023-2024:
 
     -   Configure SIEM security operations using Microsoft Sentinel: *Configure security information and event management (SIEM) security operations using Microsoft Sentinel.*
 
@@ -128,6 +130,14 @@ Education Information / Courses
     -   Create and manage Microsoft Sentinel workspaces.
 
     -   Introduction to Microsoft Sentinel: *Get familiar with Microsoft Sentinel, a cloud-native, security information and event management (SIEM) service.*
+
+    -   Microsoft Azure Well-Architected Framework - Security: *Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.*
+
+    -   Prepare for cloud security using the Cloud Adoption framework: *Security is a core consideration for all customers, in every environment. But moving to the cloud is a significant change that requires a shift in your security mindset and approach. The Cloud Adoption Framework provides guidance for this security journey by providing clarity for the processes, best practices, models, and experiences.*
+
+    -   Utilize threat intelligence in Microsoft Sentinel.
+
+    -   Connect data to Microsoft Sentinel using data connectors.
 
 -   Email Detection Engineering & Threat Hunting Workshop led by [Sublime Security](https://sublime.security/) founder/CEO Josh Kamdjou and Alfie Champion, Co-founder of [delivr.to](https://delivr.to/). Participated in this workshop ahead of BSides Las Vegas 2023 and DEFCON 31 to offer feedback and test the training labs.
 
