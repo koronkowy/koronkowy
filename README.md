@@ -2,12 +2,7 @@
 About Me
 ========
 
-[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, and Dallas/Fort Worth (DFW). I live in Seattle, WA & Houston, TX. Current owner of two smol cats. I study Español and Japanese.
-
-I’m currently looking for work!
-===============================
-
-Recently I was laid off from my role at GreyNoise, Intelligence. I’m currently trying to find a new role somewhere that can utilize my various skills from all over. Please let me know if you are looking for someone who understand cyber for any of your GTM needs (from Sales / Solutions Engineering, Sales broadly, in marketing or community management, and more.)
+[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, Houston, and Dallas/Fort Worth (DFW). Current owner of two smol cats. I study русский (Russian), polski (Polish), español (Spanish), 日本語 (Japanese), and Tiếng Việt (Vietnamese).
 
 About this Page
 ===============
@@ -23,11 +18,17 @@ I also want to highlight people/projects/conferences/etc. that I am connected wi
 Current Employment / Main Projects
 ==================================
 
+-   [LimaCharlie](https://limacharlie.io/): I’m your friendly technical content strategist over at LimaCharlie, a start up that has created the SecOps Cloud Platform. LimaCharlie delivers the core components needed to secure and monitor any given organization: things like, deploying endpoint capabilities through a single agent regardless of the technology, alerting and correlating from logs regardless of the source, automating analysis and response regardless of the environment.
+
 -   [cabal](https://cabal.cx/) / [hatemail.io](https://hatemail.substack.com/): Editorial staff and key organizer. Working in an international collective to develop and support projects that advance values of online consent, privacy, equity and liberty. Performing security assessments for at-risk and targeted people (https://cyberabuse.nyc/), creating, curating and supporting community works that progress personal security confidence, and monitoring pervasive threats online and investigating harassment campaigns. Supporting a diverse community in finding and vetting job opportunities, working with candidates to bolster their resumes and CVs, managing relationships with hiring employers to introduce talent, and developing a embedded job hunting platform. Writing, research, and editing support for unique editorials and news on threat intel, cybersecurity, hacking, privacy, tech ethics, tech-based harassment, politics & other relevant topics for hatemail.io.
 
--   [HushCon](https://hushcon.com/): I started attending HushCon in 2019 at HushCon West in Seattle, WA. I’ve been back to HushCon West every year since. And now I am helping organize the conference as a sponsorship coordinator! HushCon is a premier security conference with hush rules on all talks that happen. I also attended HushCon East located in NYC in 2022 and 2023. Please [reach out](https://hushcon.com/sponsors.php) if you’d like to talk about sponsorship.
+-   [HushCon](https://hushcon.com/): I started attending HushCon in 2018 at HushCon West in Seattle, WA. I’ve been back to HushCon West every year since. And now I am helping organize the conference as a sponsorship coordinator. HushCon is a premier security conference with hush rules on all talks that happen. I also attended HushCon East located in NYC in 2022 and 2023 and please [reach out](https://hushcon.com/sponsors.php) if you’d like to talk about sponsorship.
+
+-   [MSSN CTRL](https://www.mssnctrl.org): This is a yearly conference in the DC metro area that was started by the folks at [LimaCharlie](https://limacharlie.io/). I am in part organizing this conference with my colleagues at LimaCharlie.
 
 -   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): I’m back helping with SeaGL in 2024, assisting the main event coordinator directly in any areas that might make things easier for them / to fill in holes in the org. In 2021 I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I served the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participated in or sat in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference.
+
+-   [HackBoat](https://hackboat.org/): As a former key conference organizer for this conference, I have been participating in getting this back off the ground in 2024. I helped found the initial conference, with social media, speaker organization and assistance throughout. This event went on hold due to COVID-19, but we are bringing it back.
 
 -   [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested. I also design and make stickers & send them out (sometimes for charity, even)! I have the capacity to do small press runs of stickers, and want to do more.
 
@@ -35,6 +36,12 @@ Current Employment / Main Projects
 
 Publications / Public Work
 ==========================
+
+-   [ThreatWire](https://shop.hak5.org/pages/threatwire) / [Hak5](https://hak5.org/) - March 22, 2024: [CVEs ARE DYING](https://www.youtube.com/watch?v=7HM_XMP5KwM). News research and fact-checking / investigation / writing support during [endingwithALI](https://www.twitch.tv/endingwithali)’s stream.
+
+-   [LimaCharlie](https://limacharlie.io/) / [Defender Fridays](https://info.limacharlie.io/defender-fridays) - March 7, 2024: [The evolution of threat intelligence platforms with Greg Martin](https://limacharlie.io/blog/evolution-of-threat-intelligence-platforms-with-greg-martin). Writer for the summary of the March 1st, 2024 session of Defender Fridays.
+
+-   [LimaCharlie](https://limacharlie.io/) / [Defender Fridays](https://info.limacharlie.io/defender-fridays) - February 29, 2024: [Developing Enterprise DFIR Skills with Markus Schober](https://limacharlie.io/blog/developing-enterprise-dfir-skills-with-markus-schober). Writer for the summary of the February 23rd, 2024 session of Defender Fridays.
 
 -   [cabal](https://cabal.cx/) / [Hatemail.io](http://hatemail.io/) - January 8, 2024: [Hatemail News](https://hatemail.substack.com/p/hatemail-tech-newsletter-2024-01). News research for headlines and fact-checking / investigation.
 
@@ -139,6 +146,8 @@ Education Information / Courses
 
     -   Connect data to Microsoft Sentinel using data connectors.
 
+    -   Connect threat indicators to Microsoft Sentinel.
+
 -   Email Detection Engineering & Threat Hunting Workshop led by [Sublime Security](https://sublime.security/) founder/CEO Josh Kamdjou and Alfie Champion, Co-founder of [delivr.to](https://delivr.to/). Participated in this workshop ahead of BSides Las Vegas 2023 and DEFCON 31 to offer feedback and test the training labs.
 
 -   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Introduction (LFC202) - Completed Dec 2021.
@@ -177,12 +186,16 @@ Past Employment / Internships / Works / Projects
 Competition Participation
 =========================
 
+-   [Hacktoberfest](https://hacktoberfest.com/) 2019: Participant. Contributed to open source during October in 2019.
+
 -   [Nolacon](https://nolacon.com/) 2018: CG Silvers 2019 OSINT challenge as a remote member of team Tailpuft. The [CG Silvers competition](https://www.cgsilvers.com/osint-ctf) is an OSINT capture the flag (CTF) competition.
 
 -   BSides PDX 2018: [Trace Labs](https://www.tracelabs.org/) 2018 OSINT competition as a member of the team Qult of the Quantum Qows. This CTF involves using OSINT on real missing persons to submit information valuable to their return to law enforcement agencies.
 
 Current Organizations
 =====================
+
+-   [Defender Fridays](https://info.limacharlie.io/defender-fridays): Defender Fridays is a regularly occuring series on security operations and engineering created by [LimaCharlie](https://limacharlie.io/). I am a panelist every week (although I am mostly silent.)
 
 -   [Scarecrow Video](https://www.scarecrow.com/index.html): Supporting and being a member of the Scarecrow Video, an independently owned non-profit video sales and rental store in Seattle, WA. It has over 132,000 titles.
 
@@ -224,11 +237,11 @@ Events
 
 -   [Security BSides](http://www.securitybsides.com/) - [BSides PDX](https://bsidespdx.org/): Previously organizer who wore many hats in this organization, 2018-2021. Lead sponsorship to a level of growth of $100,000+ in sponsorship contributions, built countless relationships new and old with vendors. Sat on the board of directors from 2019-2021, ran for election and ran for chairman seat. There are few parts of this conference that I didn’t have my hands in.
 
--   [HackBoat](https://hackboat.org/): Conference organizer including help found the initial conference, social media, speaker organization and assistance. Event went on hold due to COVID-19, but it would be cool to bring it back.
+-   [THE NET GALA](https://thenetgala.com/): In March of 2024, several folks came together to host THE NET GALA in New York. I helped in planning (small contribution, really), but I also worked the doors, helped with logistics and with teardown on site.
 
 -   [HellaConf](https://www.youtube.com/playlist?list=PLb47HxNiZ8g8JN1zvoI2zwy-zdey3nBf9): Appsec conference held by the folks behind [HellaSecure](https://www.hella-secure.com/). I provided support during the virtual conference for information on speakers in chat as well as moderation for chat.
 
--   [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), [DC29](https://defcon.org/html/defcon-29/dc-29-speakers.html), [DC30](https://defcon.org/html/defcon-30/dc-30-index.html), [DC31](https://defcon.org/html/defcon-31/dc-31-index.html). Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). I used to help host parties for Atredis Partners or GreyNoise  maybe you saw me getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29.
+-   [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), [DC29](https://defcon.org/html/defcon-29/dc-29-speakers.html), [DC30](https://defcon.org/html/defcon-30/dc-30-index.html), [DC31](https://defcon.org/html/defcon-31/dc-31-index.html). Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). I used to help host parties for Atredis Partners or GreyNoise maybe you saw me getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29.
 
 -   [AppSecUSA 2018](https://2018.appsecusa.org/): In San Jose, I was awarded the [OWASP Bay Area](https://owasp.org/www-chapter-bay-area/) Diversity Sponsorship to AppSecUSA 2018. This fantastic conference on Application Security is to this date one of the best conferences I have been privileged to attend.
 
