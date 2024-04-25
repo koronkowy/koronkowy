@@ -125,7 +125,7 @@ Education Information / Courses
 
 -   MEDDPICC sales methodology certified via Andy Whyte’s MEDDPICC training - 2022
 
--   Women in Cloud Cybersecurity Training Scholarship 2024 (in progress) towards earning SC-800 from Microsoft
+-   Women in Cloud Cybersecurity Training Scholarship 2024 (in progress) towards earning SC-900 from Microsoft
 
 -   Microsoft Learning Modules - 2023-2024:
 
