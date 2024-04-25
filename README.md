@@ -15,16 +15,19 @@ This is going to be pretty comprehensive and serve organizationally for me as an
 
 I also want to highlight people/projects/conferences/etc. that I am connected with and feel passionate about.
 
+I’m looking for work!
+=====================
+
+I’ve worn a lot of hats over the years but I’m looking to find a new role as soon as possible.
+
+I’d love to be working on more technical challenges as a security researcher in cyber threat intelligence (CTI), or at least working for companies in the CTI space. But I am open minded to helping companies with anything in the realm of sales engineering, customer support / customer experience, product and go-to-market, documentation (technical editing and content creation), working with BDRs/SDRs, and many other things.
+
 Current Employment / Main Projects
 ==================================
-
--   [LimaCharlie](https://limacharlie.io/): I’m your friendly technical content strategist over at LimaCharlie, a start up that has created the SecOps Cloud Platform. LimaCharlie delivers the core components needed to secure and monitor any given organization: things like, deploying endpoint capabilities through a single agent regardless of the technology, alerting and correlating from logs regardless of the source, automating analysis and response regardless of the environment.
 
 -   [cabal](https://cabal.cx/) / [hatemail.io](https://hatemail.substack.com/): Editorial staff and key organizer. Working in an international collective to develop and support projects that advance values of online consent, privacy, equity and liberty. Performing security assessments for at-risk and targeted people (https://cyberabuse.nyc/), creating, curating and supporting community works that progress personal security confidence, and monitoring pervasive threats online and investigating harassment campaigns. Supporting a diverse community in finding and vetting job opportunities, working with candidates to bolster their resumes and CVs, managing relationships with hiring employers to introduce talent, and developing a embedded job hunting platform. Writing, research, and editing support for unique editorials and news on threat intel, cybersecurity, hacking, privacy, tech ethics, tech-based harassment, politics & other relevant topics for hatemail.io.
 
 -   [HushCon](https://hushcon.com/): I started attending HushCon in 2018 at HushCon West in Seattle, WA. I’ve been back to HushCon West every year since. And now I am helping organize the conference as a sponsorship coordinator. HushCon is a premier security conference with hush rules on all talks that happen. I also attended HushCon East located in NYC in 2022 and 2023 and please [reach out](https://hushcon.com/sponsors.php) if you’d like to talk about sponsorship.
-
--   [MSSN CTRL](https://www.mssnctrl.org): This is a yearly conference in the DC metro area that was started by the folks at [LimaCharlie](https://limacharlie.io/). I am in part organizing this conference with my colleagues at LimaCharlie.
 
 -   [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): I’m back helping with SeaGL in 2024, assisting the main event coordinator directly in any areas that might make things easier for them / to fill in holes in the org. In 2021 I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I served the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participated in or sat in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference.
 
@@ -121,6 +124,8 @@ Education Information / Courses
 -   Applied Physical Attacks on Embedded Systems, Introductory Version (at Portland OWASP Training Day 2018) by [Joe FitzPatrick](https://joefitz.com/Training.html)
 
 -   MEDDPICC sales methodology certified via Andy Whyte’s MEDDPICC training - 2022
+
+-   Women in Cloud Cybersecurity Training Scholarship 2024 (in progress) towards earning SC-800 from Microsoft
 
 -   Microsoft Learning Modules - 2023-2024:
 
