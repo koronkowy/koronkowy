@@ -165,7 +165,7 @@ Education Information / Courses
 
 -   Email Detection Engineering & Threat Hunting Workshop led by [Sublime Security](https://sublime.security/) founder/CEO Josh Kamdjou and Alfie Champion, Co-founder of [delivr.to](https://delivr.to/). Participated in this workshop ahead of BSides Las Vegas 2023 and DEFCON 31 to offer feedback and test the training labs.
 
--   Applied Physical Attacks on Embedded Systems, Introductory Version (at Portland OWASP Training Day 2018) by [Joe FitzPatrick]
+-   Applied Physical Attacks on Embedded Systems, Introductory Version (at Portland OWASP Training Day 2018) by [Joe FitzPatrick](https://securinghardware.com/about/).
 
 -   [OWASP Amass](https://github.com/OWASP/Amass): Discovering Your Exposure on the Internet (at Portland OWASP Training Day 2019) by [Jeff Foley](https://twitter.com/jeff_foley).
 
@@ -203,6 +203,8 @@ Past Employment / Internships / Works / Projects
 Competition Participation
 =========================
 
+-   [Stellar Cyber](https://stellarcyber.ai/) CTF: April 26th, 2024. (Of course, within the first 26 seconds I entered my first flag... ‘Lockheed Martin’).
+
 -   [Hacktoberfest](https://hacktoberfest.com/) 2019: Participant. Contributed to open source during October in 2019.
 
 -   [Nolacon](https://nolacon.com/) 2018: CG Silvers 2019 OSINT challenge as a remote member of team Tailpuft. The [CG Silvers competition](https://www.cgsilvers.com/osint-ctf) is an OSINT capture the flag (CTF) competition.
@@ -212,7 +214,7 @@ Competition Participation
 Current Organizations
 =====================
 
--   [Defender Fridays](https://info.limacharlie.io/defender-fridays): Defender Fridays is a regularly occuring series on security operations and engineering created by [LimaCharlie](https://limacharlie.io/). I am a panelist every week (although I am mostly silent.)
+-   [GreyNoise, Intelligence](https://www.greynoise.io/): I am a [VIP](https://docs.greynoise.io/docs/vip-program)! VIPs help GreyNoise get better by participating in product testing programs, providing feedback on current features, participating in sessions such as the “How I Use GreyNoise” video series, and more.
 
 -   [Scarecrow Video](https://www.scarecrow.com/index.html): Supporting and being a member of the Scarecrow Video, an independently owned non-profit video sales and rental store in Seattle, WA. It has over 132,000 titles.
 
@@ -256,9 +258,7 @@ Events
 
 -   [THE NET GALA](https://thenetgala.com/): In March of 2024, several folks came together to host THE NET GALA in New York. I helped in planning (small contribution, really), but I also worked the doors, helped with logistics and with teardown on site.
 
--   [HellaConf](https://
-www.youtube.com
-/playlist?list=PLb47HxNiZ8g8JN1zvoI2zwy-zdey3nBf9): Appsec conference held by the folks behind [HellaSecure](https://www.hella-secure.com/). I provided support during the virtual conference for information on speakers in chat as well as moderation for chat.
+-   [HellaConf](https://www.youtube.com/playlist?list=PLb47HxNiZ8g8JN1zvoI2zwy-zdey3nBf9): Appsec conference held by the folks behind [HellaSecure](https://www.hella-secure.com/). I provided support during the virtual conference for information on speakers in chat as well as moderation for chat.
 
 -   [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), [DC29](https://defcon.org/html/defcon-29/dc-29-speakers.html), [DC30](https://defcon.org/html/defcon-30/dc-30-index.html), [DC31](https://defcon.org/html/defcon-31/dc-31-index.html). Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). I used to help host parties for Atredis Partners or GreyNoise maybe you saw me getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29.
 
@@ -284,9 +284,7 @@ www.youtube.com
 
 -   [ShellConLA](https://shellcon.io/): Attendee in 2020 and 2021, a local Los Angeles security conference.
 
--   The AGORA: This was the oldest and largest security conference in the Pacific Northwest hosted at the [University of Washington](https://www.washington.edu/). Invite only and strictly adhering to [Chatham House Rules](https://
-en.wikipedia.org
-/wiki/Chatham_House_Rule). I attended from 2018-2019 when the conference concluded it’s run.
+-   The AGORA: This was the oldest and largest security conference in the Pacific Northwest hosted at the [University of Washington](https://www.washington.edu/). Invite only and strictly adhering to [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule). I attended from 2018-2019 when the conference concluded it’s run.
 
 -   [Time Based Arts Festival (TBA:)](https://www.pica.org/tba/): Attended and volunteered for several years at the TBA festival hosted by the [Portland Institute for Contemporary Art (PICA)](https://www.pica.org/) in Portland, OR. One time I volunteered at [Mike Daisey’s ‘All The Hours in the Day’](https://www.wweek.com/portland/blog-27636-tba-diary-mike-daiseys-all-the-hours-in-the-day.html) monologue which lasted for 24 consecutive hours.
 
