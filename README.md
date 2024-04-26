@@ -121,13 +121,23 @@ Education Information / Courses
 
 -   School of Science and Technology: High school diploma. Completed in 2009.
 
--   Applied Physical Attacks on Embedded Systems, Introductory Version (at Portland OWASP Training Day 2018) by [Joe FitzPatrick](https://joefitz.com/Training.html)
-
--   MEDDPICC sales methodology certified via Andy Whyte’s MEDDPICC training - 2022
+-   MEDDPICC sales methodology certified via Andy Whyte’s MEDDPICC training. Completed in 2022.
 
 -   Women in Cloud Cybersecurity Training Scholarship 2024 (in progress) towards earning SC-900 from Microsoft
 
--   Microsoft Learning Modules - 2023-2024:
+-   [Recorded Future University](https://university.recordedfuture.com/):
+
+    -   Recorded Future Certified Intelligence Fundamentals. Completed April, 2024.
+
+        -   Intelligence Fundamentals Lesson I: Intelligence Overview
+
+        -   Intelligence Fundamentals Lesson II: Types and Sources
+
+        -   Intelligence Fundamentals Lesson III: Intelligence Life Cycle
+
+        -   The Browser Extension
+
+-   Microsoft Learning Modules - Completed during, 2023-2024:
 
     -   Configure SIEM security operations using Microsoft Sentinel: *Configure security information and event management (SIEM) security operations using Microsoft Sentinel.*
 
@@ -155,18 +165,20 @@ Education Information / Courses
 
 -   Email Detection Engineering & Threat Hunting Workshop led by [Sublime Security](https://sublime.security/) founder/CEO Josh Kamdjou and Alfie Champion, Co-founder of [delivr.to](https://delivr.to/). Participated in this workshop ahead of BSides Las Vegas 2023 and DEFCON 31 to offer feedback and test the training labs.
 
--   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Introduction (LFC202) - Completed Dec 2021.
-
--   Japanese Conversation: Level 1, (at Portland Community College) by Tsukumo Barrett. CRN: 12499, Winter 2020
-
--   Japanese Conversation: Level 2, (at Portland Community College) by Miyoko Fuse. Spring, 2021
+-   Applied Physical Attacks on Embedded Systems, Introductory Version (at Portland OWASP Training Day 2018) by [Joe FitzPatrick]
 
 -   [OWASP Amass](https://github.com/OWASP/Amass): Discovering Your Exposure on the Internet (at Portland OWASP Training Day 2019) by [Jeff Foley](https://twitter.com/jeff_foley).
+
+-   [The Linux Foundation](https://www.linuxfoundation.org/) - Open Source Introduction (LFC202), Completed, December, 2021.
+
+-   Japanese Conversation: Level 1, (at Portland Community College) by Tsukumo Barrett. CRN: 12499, Winter, 2020
+
+-   Japanese Conversation: Level 2, (at Portland Community College) by Miyoko Fuse. Spring, 2021
 
 Past Employment / Internships / Works / Projects
 ================================================
 
--   [GreyNoise, Intelligence](https://www.greynoise.io/): I was one of the friendly Sales Engineers enabling sales to happen from a engineering perspective including in-depth demos, proof of value (POV) engagements, and creating content that documents and reflects on all the integrations and great things you can do with GreyNoise. I’m was a frequent contributor to marketing content, educational content, product documentation, and participated in/around conference and event coordination.
+-   [GreyNoise, Intelligence](https://www.greynoise.io/): I was one of the friendly Sales Engineers enabling sales to happen from a engineering perspective including in-depth demos, proof of value (POV) engagements, and creating content that documents and reflects on all the integrations and great things you can do with GreyNoise. I was a frequent contributor to marketing content, educational content, product documentation, and participated in/around conference and event coordination.
 
 -   [Atredis Partners](https://www.atredis.com/): At Atredis, an attack research and penetration testing consultancy firm, my day job was being the lovely on-staff tech editor / tech writer. Due to the nature of my work, much of it fell under heavy non-disclosure. But there’s some fun public work that’s listed in the publications section here. My job also involved working as part of the Client Operations team in part of the sales engineering / scoping side of things, social media management including working on blog posts, being passionate about our vulnerability disclosure process, and wearing some other hats.
 
@@ -244,7 +256,9 @@ Events
 
 -   [THE NET GALA](https://thenetgala.com/): In March of 2024, several folks came together to host THE NET GALA in New York. I helped in planning (small contribution, really), but I also worked the doors, helped with logistics and with teardown on site.
 
--   [HellaConf](https://www.youtube.com/playlist?list=PLb47HxNiZ8g8JN1zvoI2zwy-zdey3nBf9): Appsec conference held by the folks behind [HellaSecure](https://www.hella-secure.com/). I provided support during the virtual conference for information on speakers in chat as well as moderation for chat.
+-   [HellaConf](https://
+www.youtube.com
+/playlist?list=PLb47HxNiZ8g8JN1zvoI2zwy-zdey3nBf9): Appsec conference held by the folks behind [HellaSecure](https://www.hella-secure.com/). I provided support during the virtual conference for information on speakers in chat as well as moderation for chat.
 
 -   [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), [DC29](https://defcon.org/html/defcon-29/dc-29-speakers.html), [DC30](https://defcon.org/html/defcon-30/dc-30-index.html), [DC31](https://defcon.org/html/defcon-31/dc-31-index.html). Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). I used to help host parties for Atredis Partners or GreyNoise maybe you saw me getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29.
 
@@ -270,7 +284,9 @@ Events
 
 -   [ShellConLA](https://shellcon.io/): Attendee in 2020 and 2021, a local Los Angeles security conference.
 
--   The AGORA: This was the oldest and largest security conference in the Pacific Northwest hosted at the [University of Washington](https://www.washington.edu/). Invite only and strictly adhering to [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule). I attended from 2018-2019 when the conference concluded it’s run.
+-   The AGORA: This was the oldest and largest security conference in the Pacific Northwest hosted at the [University of Washington](https://www.washington.edu/). Invite only and strictly adhering to [Chatham House Rules](https://
+en.wikipedia.org
+/wiki/Chatham_House_Rule). I attended from 2018-2019 when the conference concluded it’s run.
 
 -   [Time Based Arts Festival (TBA:)](https://www.pica.org/tba/): Attended and volunteered for several years at the TBA festival hosted by the [Portland Institute for Contemporary Art (PICA)](https://www.pica.org/) in Portland, OR. One time I volunteered at [Mike Daisey’s ‘All The Hours in the Day’](https://www.wweek.com/portland/blog-27636-tba-diary-mike-daiseys-all-the-hours-in-the-day.html) monologue which lasted for 24 consecutive hours.
 
