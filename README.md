@@ -123,11 +123,9 @@ Education Information / Courses
 
 -   MEDDPICC sales methodology certified via Andy Whyte’s MEDDPICC training. Completed in 2022.
 
--   Women in Cloud Cybersecurity Training Scholarship 2024 (in progress) towards earning SC-900 from Microsoft
-
 -   [Recorded Future University](https://university.recordedfuture.com/):
 
-    -   Recorded Future Certified Intelligence Fundamentals. Completed April, 2024.
+    -   Recorded Future Certified Intelligence Fundamentals. Completed April,
 
         -   Intelligence Fundamentals Lesson I: Intelligence Overview
 
@@ -136,6 +134,10 @@ Education Information / Courses
         -   Intelligence Fundamentals Lesson III: Intelligence Life Cycle
 
         -   The Browser Extension
+
+-   Microsoft Certification (via [Women In Cloud](https://womenincloud.com/): Cybersecurity) - Completed during 2024 after scholarship approval towards earning [SC-900](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification) from Microsoft
+
+    -   Microsoft: Introduction to Computers and Operating Systems and Security
 
 -   Microsoft Learning Modules - Completed during, 2023-2024:
 
