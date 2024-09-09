@@ -14,6 +14,8 @@ My lovely Twitter acquaintance, [Ch33r10](https://github.com/ch33r10) shared the
 I’m looking for work!
 ======================
 
+Let's connect on LinkedIn! (https://www.linkedin.com/in/laceykasten/)
+
 I’ve worn a lot of hats over the years but I’m looking to find a new role as soon as possible such as:
 
 - Cybersecurity sales roles – whether it’s in development roles, sales rep roles, or in pre-sales engineering / solutions architecting.
