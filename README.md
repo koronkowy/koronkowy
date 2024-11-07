@@ -14,7 +14,7 @@ My lovely Twitter acquaintance, [Ch33r10](https://github.com/ch33r10) shared the
 I’m looking for work!
 ======================
 
-Let's connect on LinkedIn! (https://www.linkedin.com/in/laceykasten/)
+Let's connect on LinkedIn! https://www.linkedin.com/in/laceykasten/
 
 I’ve worn a lot of hats over the years but I’m looking to find a new role as soon as possible such as:
 
@@ -28,8 +28,9 @@ Current Employment / Main Projects
 - [cabal](https://cabal.cx/) / [hatemail.io](https://hatemail.substack.com/): Editorial staff and key organizer. Working in an international collective to develop and support projects that advance values of online consent, privacy, equity and liberty. cabal also participates in performing security assessments for at-risk and targeted people (https://cyberabuse.nyc/), creating, curating and supporting community works that progress personal security confidence, and monitoring pervasive threats online and investigating harassment campaigns. cabal also supports a diverse community in finding and vetting job opportunities, working with candidates to bolster their resumes and CVs, managing relationships with hiring employers to introduce talent, and developing a embedded job hunting platform. We also do writing, research, and editing support for unique editorials and news on threat intel, cybersecurity, hacking, privacy, tech ethics, tech-based harassment, politics & other relevant topics for hatemail.io.
 - [HushCon](https://hushcon.com/): I started attending HushCon in 2018 at HushCon West in Seattle, WA. I’ve been back to HushCon West every year since. And now I am helping organize the conference as a sponsorship coordinator. HushCon is a premier security conference with hush rules on all talks that happen. I also attended HushCon East located in NYC in 2022 and 2023 and please [reach out](https://hushcon.com/sponsors.php) if you’d like to talk about sponsorship -- we have a really neat sponsorship prospectus that I help maintain.
 - [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested. I also design and make stickers & send them out (sometimes for charity, even)! I have the capacity to do small press runs of stickers, and want to do more.
-- [hackroost](https://hackroost.net/): ([gh repo](https://github.com/koronkowy/hackroost)) Tiny link list project that was a continuation of an old pinned tweet I had where I collected a list of places cybersecurity talks are uploaded on YouTube.
+- [hackroost.net](https://hackroost.net/): ([gh repo](https://github.com/koronkowy/hackroost)) Tiny link list project that was a continuation of an old pinned tweet I had where I collected a list of places cybersecurity talks are uploaded on YouTube.
 - [terms-list](https://koronkowy.github.io/terms-list/index.html): ([gh repo](https://github.com/koronkowy/terms-list)) In an attempt to make my cybersecurity notes cleaner, usable on mobile when I can't access my Word documents, and pull terms out to a simple list, this is an on-going list project of terms relevant to cybersecurity in my studies. My future goals include turning this into having flashcard capability for studying.
+- [cyber-jobs](https://koronkowy.github.io/cyber-jobs/index.html): ([gh repo](https://github.com/koronkowy/cyber-jobs)) Keeping the same look and feel of terms-list, this is a page that details companies that are hiring for Cybersecurity jobs. These can be broad tech companies that hire security roles, recruiting companies that hire for cyber jobs, nonprofits, and defense contracting companies. Each company has a link to the careers page and it is searchable.
 
 Publications / Public Work
 ==========================
