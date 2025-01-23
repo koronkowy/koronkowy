@@ -1,39 +1,40 @@
 ![Lacey Kasten](https://i.imgur.com/nwkTVJZ.jpg)
 About Me
 ========
-
 [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, Houston, and Dallas/Fort Worth (DFW). Current owner of two smol cats. I study русский (Russian), українська мова (Ukrainian), polski (Polish), español (Spanish), 日本語 (Japanese), and Tiếng Việt (Vietnamese).
 
 About this Page
 ===============
-
 I really wanted to highlight all the things I am connected with on my Twitter bio but I became involved with too many things! This is something inbetween a CV, README, and linklist.
 
 My lovely Twitter acquaintance, [Ch33r10](https://github.com/ch33r10) shared their GitHub readme which includes public mentions of them and their work and I thought it was the perfect idea to house all this stuff. Thank you to her for the inspiration.
 
 I’m looking for work!
 ======================
-
-Let's connect on LinkedIn! https://www.linkedin.com/in/laceykasten/
+Let's connect on LinkedIn!
+[https://www.linkedin.com/in/laceykasten/]()
 
 I’ve worn a lot of hats over the years but I’m looking to find a new role as soon as possible such as:
 
-- Cybersecurity sales roles – whether it’s in development roles, sales rep roles, or in pre-sales engineering / solutions architecting.
-- Customer support or customer experience – I enjoy helping customers and making sure their needs are met. Would be happy to do this work again.
-- Community management – I’m passionate about building relationships and fostering engagement. I also have a lot of experience organizing and running events, particularly in the cybersecurity space
+- **Cybersecurity sales roles** – whether it’s in development roles, sales rep roles, or in pre-sales engineering / solutions architecting.
+- **Customer support or customer experience** – I enjoy helping customers and making sure their needs are met. Would be happy to do this work again.
+- **Sales enablement** - I love leveraging my sales experience and technical writing and communications background to make the best sales enablement content to support sales. I love doing anything I can to make sales folks win, especially if it enables technical wins.
+- **Event marketing** - I've run and participated in a large number of cybersecurity and opensource conferences and also have experience working running tradeshows in the tradeshow industry itself. I love events!
+- **Community management** – I’m passionate about building relationships and fostering engagement. I also have a lot of experience organizing and running events, particularly in the cybersecurity space
 
 Current Employment / Main Projects
-==================================
-
+======================
 - [HushCon](https://hushcon.com/): I started attending HushCon in 2018 at HushCon West in Seattle, WA. I’ve been back to HushCon West every year since. And now I am helping organize the conference as a sponsorship coordinator. HushCon is a premier security conference with hush rules on all talks that happen. I also attended HushCon East located in NYC in 2022 and 2023 and please [reach out](https://hushcon.com/sponsors.php) if you’d like to talk about sponsorship -- we have a really neat sponsorship prospectus that I help maintain.
 - [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested. I also design and make stickers & send them out (sometimes for charity, even)! I have the capacity to do small press runs of stickers, and want to do more.
+- [blog](https://koronkowy.tumblr.com/): This is my little blog designed to look seamless with my other web projects. Here I share learning resources, talks, and other things that I have absorbed over the years summarized.
 - [hackroost.net](https://hackroost.net/): ([gh repo](https://github.com/koronkowy/hackroost)) Tiny link list project that was a continuation of an old pinned tweet I had where I collected a list of places cybersecurity talks are uploaded on YouTube.
 - [terms-list](https://koronkowy.github.io/terms-list/index.html): ([gh repo](https://github.com/koronkowy/terms-list)) In an attempt to make my cybersecurity notes cleaner, usable on mobile when I can't access my Word documents, and pull terms out to a simple list, this is an on-going list project of terms relevant to cybersecurity in my studies. My future goals include turning this into having flashcard capability for studying.
 - [cyber-jobs](https://koronkowy.github.io/cyber-jobs/index.html): ([gh repo](https://github.com/koronkowy/cyber-jobs)) Keeping the same look and feel of terms-list, this is a page that details companies that are hiring for Cybersecurity jobs. These can be broad tech companies that hire security roles, recruiting companies that hire for cyber jobs, nonprofits, and defense contracting companies. Each company has a link to the careers page and it is searchable.
+- [usbtree](https://usbtree.tumblr.com/): Visual curation blog that supports my art practice. It's full of artwork that inspires me & builds visual literacy. Started out in 2010 under different names.
+- [m8m8e](https://m8m8e.tumblr.com/): This is where the memes get posted.
 
 Publications / Public Work
 ==========================
-
 - [SLEUTHCON](https://www.sleuthcon.com/) - May 24, 2024: [Chasing Androxgh0st: Attribution in an Open-Source Cloud Malware Ecosystem](https://www.youtube.com/watch?v=iYTeFweNLuI). Independent OSINT research performed for [Alex Delamotte](https://www.sleuthcon.com/alexdelamotte)’s research in prepartion for this talk.
 - [ThreatWire](https://shop.hak5.org/pages/threatwire) / [Hak5](https://hak5.org/) - March 22, 2024: [CVEs ARE DYING](https://www.youtube.com/watch?v=7HM_XMP5KwM). News research and fact-checking / investigation / writing support during [endingwithALI](https://www.twitch.tv/endingwithali)’s stream.
 - [LimaCharlie](https://limacharlie.io/) / [Defender Fridays](https://info.limacharlie.io/defender-fridays) - March 7, 2024: [The evolution of threat intelligence platforms with Greg Martin](https://limacharlie.io/blog/evolution-of-threat-intelligence-platforms-with-greg-martin). Writer for the summary of the March 1st, 2024 session of Defender Fridays.
@@ -75,23 +76,18 @@ Publications / Public Work
 
 Education Information / Courses
 ===============================
-
 - Pacific Northwest College of Art (PNCA): Bachelor of Fine Arts (BFA), Communication Design. Dean’s Scholarship recipient. Completed in 2013.
 - School of Science and Technology: High school diploma. Completed in 2009.
 - MEDDPICC sales methodology certified via Andy Whyte’s MEDDPICC training. Completed in 2022.
 - [Recorded Future University](https://university.recordedfuture.com/):
-
   - Recorded Future Certified Intelligence Fundamentals. Completed April,
-
     - Intelligence Fundamentals Lesson I: Intelligence Overview
     - Intelligence Fundamentals Lesson II: Types and Sources
     - Intelligence Fundamentals Lesson III: Intelligence Life Cycle
     - The Browser Extension
 - Microsoft Certification (via [Women In Cloud](https://womenincloud.com/): Cybersecurity) - Completed during 2024 after scholarship approval towards earning [SC-900](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification) from Microsoft
-
   - Microsoft: Introduction to Computers and Operating Systems and Security
 - Microsoft Learning Modules - Completed during, 2023-2024:
-
   - Configure SIEM security operations using Microsoft Sentinel: *Configure security information and event management (SIEM) security operations using Microsoft Sentinel.*
   - Automation in Microsoft Sentinel.
   - Threat detection with Microsoft Sentinel analytics.
@@ -113,7 +109,6 @@ Education Information / Courses
 
 Past Employment / Internships / Works / Projects
 ================================================
-
 - [GreyNoise, Intelligence](https://www.greynoise.io/): I was one of the friendly Sales Engineers enabling sales to happen from a engineering perspective including in-depth demos, proof of value (POV) engagements, and creating content that documents and reflects on all the integrations and great things you can do with GreyNoise. I was a frequent contributor to marketing content, educational content, product documentation, and participated in/around conference and event coordination.
 - [Atredis Partners](https://www.atredis.com/): At Atredis, an attack research and penetration testing consultancy firm, my day job was being the lovely on-staff tech editor / tech writer. Due to the nature of my work, much of it fell under heavy non-disclosure. But there’s some fun public work that’s listed in the publications section here. My job also involved working as part of the Client Operations team in part of the sales engineering / scoping side of things, social media management including working on blog posts, being passionate about our vulnerability disclosure process, and wearing some other hats.
 - [cabal](https://cabal.cx/) / [hatemail.io](https://hatemail.substack.com/): Editorial staff and key organizer. Worked in an international collective to develop and support projects that advance values of online consent, privacy, equity and liberty. cabal also participated in performing security assessments for at-risk and targeted people (https://cyberabuse.nyc/), creating, curating and supporting community works that progress personal security confidence, and monitoring pervasive threats online and investigating harassment campaigns. cabal also supported a diverse community in finding and vetting job opportunities, working with candidates to bolster their resumes and CVs, managing relationships with hiring employers to introduce talent, and developed a embedded job hunting platform. Work also included writing, research, and editorial support for unique editorials and news on threat intel, cybersecurity, hacking, privacy, tech ethics, tech-based harassment, politics & other relevant topics for hatemail.io.
@@ -129,7 +124,6 @@ Past Employment / Internships / Works / Projects
 
 Competition Participation
 =========================
-
 - [Stellar Cyber](https://stellarcyber.ai/) CTF: April 26th, 2024. (Of course, within the first 26 seconds I entered my first flag... ‘Lockheed Martin’).
 - [Hacktoberfest](https://hacktoberfest.com/) 2019: Participant. Contributed to open source during October in 2019.
 - [Nolacon](https://nolacon.com/) 2018: CG Silvers 2019 OSINT challenge as a remote member of team Tailpuft. The [CG Silvers competition](https://www.cgsilvers.com/osint-ctf) is an OSINT capture the flag (CTF) competition.
@@ -137,7 +131,6 @@ Competition Participation
 
 Current Organizations
 =====================
-
 - [Scarecrow Video](https://www.scarecrow.com/index.html): Supporting and being a member of the Scarecrow Video, an independently owned non-profit video sales and rental store in Seattle, WA. It has over 132,000 titles.
 - [Open Web Application Security Project (OWASP) Portland Chapter](https://owasp.org/www-chapter-portland/) & [Seattle Chapter](https://owasp.org/www-chapter-seattle/): I am a lifetime member of the [OWASP organization](https://owasp.org/) and am connected to the Portland chapter. Soon, I want to be involved in the Seattle chapter.
 - [DEF CON Groups](https://twitter.com/defcongroups): DC Group [#dc503](https://503.ninja/), Portland, OR: The official [DEF CON](https://defcon.org/) group of Portland, my hometown. I participate in helping volunteer and assist in the yearly #dc503 DEF CON events.
@@ -145,7 +138,6 @@ Current Organizations
 
 Past Organizations
 ==================
-
 - GreyNoise Queer ERG: GayNoise: Helped in founding of the queer employee resource group (ERG) at GreyNoise, Intelligence.
 - [Women’s Society of Cyberjutsu](https://womenscyberjutsu.org/): Previous membership at this org, a 501(c)3 International nonprofit community, focused on empowering women to succeed in the cybersecurity industry.
 - [PDX2600](https://pdx2600.org/): Formerly attended the Portland chapter of [2600](https://www.meetup.com/topics/2600/), a historic hacking / phreaking meetup.
@@ -162,7 +154,6 @@ Past Organizations
 
 Events
 ======
-
 - [Security BSides](http://www.securitybsides.com/) - [BSides PDX](https://bsidespdx.org/): Previously organizer who wore many hats in this organization, 2018-2021. Lead sponsorship to a level of growth of $100,000+ in sponsorship contributions, built countless relationships new and old with vendors. Sat on the board of directors from 2019-2021, ran for election and ran for chairman seat. There are few parts of this conference that I didn’t have my hands in.
 - [DEF CON® Hacking Conference](https://defcon.org/): I have attended DEF CON for the years of [DC20](https://defcon.org/html/defcon-20/dc-20-index.html), [DC21](https://defcon.org/html/defcon-21/dc-21-index.html), [DC24](https://defcon.org/html/defcon-24/dc-24-index.html), [DC26](https://defcon.org/html/defcon-26/dc-26-index.html), [DC27](https://defcon.org/html/defcon-27/dc-27-index.html), [DC28](https://defcon.org/html/defcon-28/dc-28-index.html), [DC29](https://defcon.org/html/defcon-29/dc-29-speakers.html), [DC30](https://defcon.org/html/defcon-30/dc-30-index.html), [DC31](https://defcon.org/html/defcon-31/dc-31-index.html), [DC32](https://defcon.org/html/defcon-32/dc-32-index.html). Often sponsored by companies, I have also attended as a scholarship recipient from the [Women in Security and Privacy (WISP) org](https://www.wisporg.com/). I used to help host parties for Atredis Partners or GreyNoise maybe you saw me getting up to shenanigans like buying the [Car Hacking Village](https://www.carhackingvillage.com/) Chang Li Tiny car at DC29.
 - [SeaGL (Seattle GNU/Linux conference)](https://seagl.org/): In 2021 I helped out the fantastic Seattle [FLOSS (free/libre/open source software)](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) conference. I served the org as the volunteer coordination committee co-chair and code of conduct co-chair. I also participated in or sat in on the programming, finance, partnerships, and tech committees. During the conference I managed a team of speaker wranglers, troubleshooted live streams run by Streamyard and Restream, helped with the custom Element based Matrix server hosting the conference’s chat platform, assisted speakers/attendees/sponsors with any help requests, and moderated channels throughout the conference.
@@ -187,7 +178,6 @@ Events
 
 Credits
 =======
-
 - [Ch33r10](https://twitter.com/ch33r10) for inspiration (You can find her GH above.)
 - [Akash1362000](https://github.com/Akash1362000/Akash1362000) whose README I looked at as an inspiration
 - [Canva](https://www.canva.com/) was used for the opening graphic banner (not sponsored)
