@@ -22,6 +22,8 @@ I’ve worn a lot of hats over the years but I’m looking to find a new role as
 - **Event marketing** - I've run and participated in a large number of cybersecurity and opensource conferences and also have experience working running tradeshows in the tradeshow industry itself. I love events!
 - **Community management** – I’m passionate about building relationships and fostering engagement. I also have a lot of experience organizing and running events, particularly in the cybersecurity space
 
+I'm building out my MuchSkills portfolio here so you can take a look at the various skills I can bring to teams and projects: [https://app.muchskills.com/user/lacey]()
+
 Current Employment / Main Projects
 ======================
 - [HushCon](https://hushcon.com/): I started attending HushCon in 2018 at HushCon West in Seattle, WA. I’ve been back to HushCon West every year since. And now I am helping organize the conference as a sponsorship coordinator. HushCon is a premier security conference with hush rules on all talks that happen. I also attended HushCon East located in NYC in 2022 and 2023 and please [reach out](https://hushcon.com/sponsors.php) if you’d like to talk about sponsorship -- we have a really neat sponsorship prospectus that I help maintain.
