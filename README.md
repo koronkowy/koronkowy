@@ -134,6 +134,7 @@ Competition Participation
 Current Organizations
 =====================
 - [Scarecrow Video](https://www.scarecrow.com/index.html): Supporting and being a member of the Scarecrow Video, an independently owned non-profit video sales and rental store in Seattle, WA. It has over 132,000 titles.
+- [Seattle Area Archivists (SeArch)](https://seattleareaarchivists.org/): Ongoing member of SeArch, a organization founded in 1985 formed with the purpose of connecting Seattle area archivists on their pursuits of archiving.
 - [Open Web Application Security Project (OWASP) Portland Chapter](https://owasp.org/www-chapter-portland/) & [Seattle Chapter](https://owasp.org/www-chapter-seattle/): I am a lifetime member of the [OWASP organization](https://owasp.org/) and am connected to the Portland chapter. Soon, I want to be involved in the Seattle chapter.
 - [DEF CON Groups](https://twitter.com/defcongroups): DC Group [#dc503](https://503.ninja/), Portland, OR: The official [DEF CON](https://defcon.org/) group of Portland, my hometown. I participate in helping volunteer and assist in the yearly #dc503 DEF CON events.
 - [DEF CON Groups](https://twitter.com/defcongroups): DC Group [#dc541](https://forum.defcon.org/node/231682), Eugene, OR: My home [DEF CON](https://defcon.org/) group where we met on the second Saturday of the month. I am still involved online with this group but less so now that I have moved.
