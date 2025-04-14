@@ -1,7 +1,7 @@
 ![Lacey Kasten](https://i.imgur.com/nwkTVJZ.jpg)
 About Me
 ========
-[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, Houston, and Dallas/Fort Worth (DFW). Current owner of two smol cats. I study русский (Russian), українська мова (Ukrainian), polski (Polish), español (Spanish), 日本語 (Japanese), and Tiếng Việt (Vietnamese).
+[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)/[InfoSec](https://en.wikipedia.org/wiki/Information_security) nerd raised in Portland, OR who has historically lived in/around New York, Seattle, Tokyo, Houston, and Dallas/Fort Worth (DFW). Current owner of two smol cats. I study русский (Russian), español (Spanish), 日本語 (Japanese), deutschsprachlich (German), українська мова (Ukrainian), polski (Polish), and Tiếng Việt (Vietnamese).
 
 About this Page
 ===============
@@ -9,23 +9,10 @@ I really wanted to highlight all the things I am connected with on my Twitter bi
 
 My lovely Twitter acquaintance, [Ch33r10](https://github.com/ch33r10) shared their GitHub readme which includes public mentions of them and their work and I thought it was the perfect idea to house all this stuff. Thank you to her for the inspiration.
 
-I’m looking for work!
-======================
-Let's connect on LinkedIn!
-[https://www.linkedin.com/in/laceykasten/]()
-
-I’ve worn a lot of hats over the years but I’m looking to find a new role as soon as possible such as:
-
-- **Cybersecurity sales roles** – whether it’s in development roles, sales rep roles, or in pre-sales engineering / solutions architecting.
-- **Customer support or customer experience** – I enjoy helping customers and making sure their needs are met. Would be happy to do this work again.
-- **Sales enablement** - I love leveraging my sales experience and technical writing and communications background to make the best sales enablement content to support sales. I love doing anything I can to make sales folks win, especially if it enables technical wins.
-- **Event marketing** - I've run and participated in a large number of cybersecurity and opensource conferences and also have experience working running tradeshows in the tradeshow industry itself. I love events!
-- **Community management** – I’m passionate about building relationships and fostering engagement. I also have a lot of experience organizing and running events, particularly in the cybersecurity space
-
-I'm building out my MuchSkills portfolio here so you can take a look at the various skills I can bring to teams and projects: [https://app.muchskills.com/user/lacey]()
 
 Current Employment / Main Projects
 ======================
+- [Torq](https://torq.io/): As a new Torq Sales Engineer working with strategic accounts in the Pacific Northwest, I’m focusing on killing off outdated SOAR platforms once and for all, and switching folks over to no-code solutions.
 - [HushCon](https://hushcon.com/): I started attending HushCon in 2018 at HushCon West in Seattle, WA. I’ve been back to HushCon West every year since. And now I am helping organize the conference as a sponsorship coordinator. HushCon is a premier security conference with hush rules on all talks that happen. I also attended HushCon East located in NYC in 2022 and 2023 and please [reach out](https://hushcon.com/sponsors.php) if you’d like to talk about sponsorship -- we have a really neat sponsorship prospectus that I help maintain.
 - [stickerlife.org](https://stickerlife.org/): This is a small archive project that I took on a few years back to digitize and make archived in quality format any and all stickers that are part of the information security world. These are either mailed in or ethically harvested. I also design and make stickers & send them out (sometimes for charity, even)! I have the capacity to do small press runs of stickers, and want to do more.
 - [blog](https://koronkowy.tumblr.com/): This is my little blog designed to look seamless with my other web projects. Here I share learning resources, talks, and other things that I have absorbed over the years summarized.
