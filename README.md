@@ -68,15 +68,17 @@ Education Information / Courses
 - Pacific Northwest College of Art (PNCA): Bachelor of Fine Arts (BFA), Communication Design. Dean’s Scholarship recipient. Completed in 2013.
 - School of Science and Technology: High school diploma. Completed in 2009.
 - MEDDPICC sales methodology certified via Andy Whyte’s MEDDPICC training. Completed in 2022.
+- [Torq Academy](https://academy.torq.io/). Completed April, 2025:
+  - Torq 101: *Build a strong foundation with key concepts, explore the Torq Platform, and understand the basics of APIs and JSON. Empower yourself to navigate and leverage essential tools for streamlined automation.*
 - [Recorded Future University](https://university.recordedfuture.com/):
-  - Recorded Future Certified Intelligence Fundamentals. Completed April,
+  - Recorded Future Certified Intelligence Fundamentals. Completed April, 2024:
     - Intelligence Fundamentals Lesson I: Intelligence Overview
     - Intelligence Fundamentals Lesson II: Types and Sources
     - Intelligence Fundamentals Lesson III: Intelligence Life Cycle
     - The Browser Extension
 - Microsoft Certification (via [Women In Cloud](https://womenincloud.com/): Cybersecurity) - Completed during 2024 after scholarship approval towards earning [SC-900](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification) from Microsoft
   - Microsoft: Introduction to Computers and Operating Systems and Security
-- Microsoft Learning Modules - Completed during, 2023-2024:
+- Microsoft Learning Modules. Completed during, 2023-2024:
   - Configure SIEM security operations using Microsoft Sentinel: *Configure security information and event management (SIEM) security operations using Microsoft Sentinel.*
   - Automation in Microsoft Sentinel.
   - Threat detection with Microsoft Sentinel analytics.
