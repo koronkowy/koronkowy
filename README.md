@@ -90,6 +90,7 @@ Education Information / Courses
 - MEDDPICC sales methodology certified via Andy Whyte’s MEDDPICC training. Completed in 2022.
 - [Torq Academy](https://academy.torq.io/). Completed April, 2025:
   - Torq 101: *Build a strong foundation with key concepts, explore the Torq Platform, and understand the basics of APIs and JSON. Empower yourself to navigate and leverage essential tools for streamlined automation.*
+- [Tanium Learning](https://help.tanium.com/bundle/CourseCatalog/page/TRAINING/CourseCatalog/Intro.htm). What Does Tanium Do. Completed April, 2026.
 - [Recorded Future University](https://university.recordedfuture.com/):
   - Recorded Future Certified Intelligence Fundamentals. Completed April, 2024:
     - Intelligence Fundamentals Lesson I: Intelligence Overview
