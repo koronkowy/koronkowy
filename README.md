@@ -91,6 +91,8 @@ Education Information / Courses
 - MEDDPICC sales methodology certified via Andy Whyte’s MEDDPICC training. Completed in 2022.
 - [Databricks](https://www.databricks.com/learn/training/home).
   - Databricks Free Edition Training: Fundamentals. Completed July, 2026.
+- [BlueDot Impact](https://bluedot.org/). Completed July, 2026:
+  - Future of AI ([certificate link](https://bluedot.org/certification?id=recnF53eGYnQgVIZe)): *In this 2-hour course, the learner above has gained foundational knowledge of today's AI systems through hands-on demos and case studies, explored potential paths toward AGI, and examined the societal implications of these technologies. Equipped with this understanding, certificate holders are better prepared to navigate the rapidly changing landscape where AI literacy is becoming essential for both professional and personal decision-making.*
 - [AttackIQ Academy](https://academy.attackiq.com/). Completed June, 2026:
   - Top ATT&CK Techniques ([certificate link](https://academy.attackiq.com/certificates/certificate-template?token=eyJ1c2VyX2lkIjoyNDE1MzMsInJlc291cmNlX2lkIjo1ODQ3LCJjZXJ0X2lkIjo2NzExLCJ0eXBlIjoiY291cnNlIiwidGltZXN0YW1wIjoxNzgzMzI5MDM3fQ.13a75e4a09137df9)): *Students are introduced to the Top ATT&CK Techniques project from MITRE Engenuity's Center for Threat-Informed Defense.*
 - [Torq Academy](https://academy.torq.io/). Completed April, 2025:
