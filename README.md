@@ -8,7 +8,10 @@ I’m looking for work!
 ======================
 
 Let's connect on LinkedIn!
-[https://www.linkedin.com/in/laceykasten/]()
+https://www.linkedin.com/in/laceykasten/
+
+Or if you'd like, we can connect on Peerlist :)
+https://peerlist.io/lacey
 
 I’ve worn a lot of hats over the years but I’m looking to find a new role as soon as possible such as:
 
