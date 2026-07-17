@@ -40,6 +40,7 @@ Current Employment / Main Projects
 - [blog](https://koronkowy.tumblr.com/): This is my little blog designed to look seamless with my other web projects. Here I share learning resources, talks, and other things that I have absorbed over the years summarized.
 - [hackroost.net](https://hackroost.net/): ([gh repo](https://github.com/koronkowy/hackroost)) Tiny link list project that was a continuation of an old pinned tweet I had where I collected a list of places cybersecurity talks are uploaded on YouTube.
 - [terms-list](https://koronkowy.github.io/terms-list/index.html): ([gh repo](https://github.com/koronkowy/terms-list)) In an attempt to make my cybersecurity notes cleaner, usable on mobile when I can't access my Word documents, and pull terms out to a simple list, this is an on-going list project of terms relevant to cybersecurity in my studies. My future goals include turning this into having flashcard capability for studying.
+- [Wikipedia: Koronkowy](https://en.wikipedia.org/wiki/User:Koronkowy): This is my Wikipedia user page. I contribute to articles when I can, especially editing and fixing them up.
 - [TPDb: koronkowy](https://theposterdb.com/user/koronkowy): Silly side hobby of making and uploading posters for TV and Movies, mostly for visual cohesion in my Plex server.
 - [usbtree](https://usbtree.tumblr.com/): Visual curation blog that supports my art practice. It's full of artwork that inspires me & builds visual literacy. Started out in 2010 under different names.
 - [m8m8e](https://m8m8e.tumblr.com/): This is where the memes get posted.
